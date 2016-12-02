@@ -1,0 +1,175 @@
+> Checking if an update is available
+> Update not available
+> Launching Appium server with command: C:\Program Files (x86)\Appium\node.exe lib\server\main.js --address 127.0.0.1 --port 4723 --platform-name Android --platform-version 23 --automation-name Appium --log-no-color
+> info: Welcome to Appium v1.4.16 (REV ae6877eff263066b26328d457bd285c0cc62430d)
+> info: Appium REST http interface listener started on 127.0.0.1:4723
+> info: [debug] Non-default server args: {"address":"127.0.0.1","logNoColors":true,"platformName":"Android","platformVersion":"23","automationName":"Appium"}
+> info: Console LogLevel: debug
+> info: --> POST /wd/hub/session {"desiredCapabilities":{"app":"C:\\Users\\Sunil\\workspace\\AppiumIntro\\src\\bookMyShow-ucb.apk","platformName":"Android","deviceName":"Android Emulator"}}
+> info: Client User-Agent string: Apache-HttpClient/4.5.2 (Java/1.8.0_101)
+> info: [debug] No appActivity desired capability or server param. Parsing from apk.
+> info: [debug] No appPackage desired capability or server param. Parsing from apk.
+> info: [debug] Using local app from desired caps: C:\Users\Sunil\workspace\AppiumIntro\src\bookMyShow-ucb.apk
+> info: [debug] Creating new appium session 349ca970-6db9-4f0c-ad87-d0158a025351
+> info: Starting android appium
+> info: [debug] Getting Java version
+> info: Java version is: 1.8.0_101
+> info: [debug] Checking whether adb is present
+> info: [debug] Using adb from C:\Users\Sunil\AppData\Local\Android\Sdk\platform-tools\adb.exe
+> info: [debug] Parsing package and activity from app manifest
+> info: [debug] Checking whether aapt is present
+> info: [debug] Using aapt from C:\Users\Sunil\AppData\Local\Android\Sdk\build-tools\24.0.1\aapt.exe
+> info: [debug] Extracting package and launch activity from manifest.
+> info: [debug] executing cmd: C:\Users\Sunil\AppData\Local\Android\Sdk\build-tools\24.0.1\aapt.exe dump badging C:\Users\Sunil\workspace\AppiumIntro\src\bookMyShow-ucb.apk
+> info: [debug] badging package: com.bt.bms
+> info: [debug] badging act: com.bt.bms.activities.SplashActivity
+> info: [debug] Parsed package and activity are: com.bt.bms/com.bt.bms.activities.SplashActivity
+> info: [debug] Using fast reset? true
+> info: [debug] Preparing device for session
+> info: [debug] Checking whether app is actually present
+> info: Retrieving device
+> info: [debug] Trying to find a connected android device
+> info: [debug] Getting connected devices...
+> info: [debug] executing cmd: C:\Users\Sunil\AppData\Local\Android\Sdk\platform-tools\adb.exe devices
+> info: [debug] 1 device(s) connected
+> info: Found device emulator-5554
+> info: [debug] Setting device id to emulator-5554
+> info: [debug] Waiting for device to be ready and to respond to shell commands (timeout = 5)
+> info: [debug] executing cmd: C:\Users\Sunil\AppData\Local\Android\Sdk\platform-tools\adb.exe -s emulator-5554 wait-for-device
+> info: [debug] executing cmd: C:\Users\Sunil\AppData\Local\Android\Sdk\platform-tools\adb.exe -s emulator-5554 shell "echo 'ready'"
+> info: [debug] Starting logcat capture
+> info: [debug] Getting device API level
+> info: [debug] executing cmd: C:\Users\Sunil\AppData\Local\Android\Sdk\platform-tools\adb.exe -s emulator-5554 shell "getprop ro.build.version.sdk"
+> info: [debug] Device is at API Level 23
+> info: Device API level is: 23
+> info: [debug] Extracting strings for language: default
+> info: [debug] executing cmd: C:\Users\Sunil\AppData\Local\Android\Sdk\platform-tools\adb.exe -s emulator-5554 shell "getprop persist.sys.language"
+> info: [debug] Current device persist.sys.language: 
+> info: [debug] java -jar "C:\Program Files (x86)\Appium\node_modules\appium\node_modules\appium-adb\jars\appium_apk_tools.jar" "stringsFromApk" "C:\Users\Sunil\workspace\AppiumIntro\src\bookMyShow-ucb.apk" "C:\Users\Sunil\AppData\Local\Temp\com.bt.bms" 
+> info: [debug] Reading strings from converted strings.json
+> info: [debug] Setting language to default
+> info: [debug] executing cmd: C:\Users\Sunil\AppData\Local\Android\Sdk\platform-tools\adb.exe -s emulator-5554 push "C:\\Users\\Sunil\\AppData\\Local\\Temp\\com.bt.bms\\strings.json" /data/local/tmp
+> info: [debug] Checking whether aapt is present
+> info: [debug] Using aapt from C:\Users\Sunil\AppData\Local\Android\Sdk\build-tools\24.0.1\aapt.exe
+> info: [debug] Retrieving process from manifest.
+> info: [debug] executing cmd: C:\Users\Sunil\AppData\Local\Android\Sdk\build-tools\24.0.1\aapt.exe dump xmltree C:\Users\Sunil\workspace\AppiumIntro\src\bookMyShow-ucb.apk AndroidManifest.xml
+> info: [debug] Set app process to: com.bt.bms
+> info: [debug] Not uninstalling app since server not started with --full-reset
+> info: [debug] Checking app cert for C:\Users\Sunil\workspace\AppiumIntro\src\bookMyShow-ucb.apk.
+> info: [debug] executing cmd: java -jar "C:\Program Files (x86)\Appium\node_modules\appium\node_modules\appium-adb\jars\verify.jar" C:\Users\Sunil\workspace\AppiumIntro\src\bookMyShow-ucb.apk
+> info: [debug] App already signed.
+> info: [debug] Zip-aligning C:\Users\Sunil\workspace\AppiumIntro\src\bookMyShow-ucb.apk
+> info: [debug] Checking whether zipalign is present
+> info: [debug] Using zipalign from C:\Users\Sunil\AppData\Local\Android\Sdk\build-tools\24.0.1\zipalign.exe
+> info: [debug] Zip-aligning apk.
+> info: [debug] executing cmd: C:\Users\Sunil\AppData\Local\Android\Sdk\build-tools\24.0.1\zipalign.exe -f 4 C:\Users\Sunil\workspace\AppiumIntro\src\bookMyShow-ucb.apk C:\Users\Sunil\AppData\Local\Temp\116719-580-1ej4s40\appium.tmp
+> info: [debug] MD5 for app is 8c3d1b1372441237108d673a6fe85c8f
+> info: [debug] executing cmd: C:\Users\Sunil\AppData\Local\Android\Sdk\platform-tools\adb.exe -s emulator-5554 shell "ls /data/local/tmp/8c3d1b1372441237108d673a6fe85c8f.apk"
+> info: [debug] Getting install status for com.bt.bms
+> info: [debug] Getting device API level
+> info: [debug] executing cmd: C:\Users\Sunil\AppData\Local\Android\Sdk\platform-tools\adb.exe -s emulator-5554 shell "getprop ro.build.version.sdk"
+> info: [debug] Device is at API Level 23
+> info: [debug] executing cmd: C:\Users\Sunil\AppData\Local\Android\Sdk\platform-tools\adb.exe -s emulator-5554 shell "pm list packages -3 com.bt.bms"
+> info: [debug] App is not installed
+> info: Installing App
+> info: [debug] executing cmd: C:\Users\Sunil\AppData\Local\Android\Sdk\platform-tools\adb.exe -s emulator-5554 shell "mkdir -p /data/local/tmp/"
+> info: [debug] Removing any old apks
+> info: [debug] executing cmd: C:\Users\Sunil\AppData\Local\Android\Sdk\platform-tools\adb.exe -s emulator-5554 shell "ls /data/local/tmp/*.apk"
+> info: [debug] No apks to examine
+> info: [debug] executing cmd: C:\Users\Sunil\AppData\Local\Android\Sdk\platform-tools\adb.exe -s emulator-5554 push "C:\\Users\\Sunil\\workspace\\AppiumIntro\\src\\bookMyShow-ucb.apk" /data/local/tmp/8c3d1b1372441237108d673a6fe85c8f.apk
+> info: [debug] Uninstalling com.bt.bms
+> info: [debug] executing cmd: C:\Users\Sunil\AppData\Local\Android\Sdk\platform-tools\adb.exe -s emulator-5554 shell "am force-stop com.bt.bms"
+> info: [debug] executing cmd: C:\Users\Sunil\AppData\Local\Android\Sdk\platform-tools\adb.exe -s emulator-5554 uninstall com.bt.bms
+> info: [debug] App was not uninstalled, maybe it wasn't on device?
+> info: [debug] executing cmd: C:\Users\Sunil\AppData\Local\Android\Sdk\platform-tools\adb.exe -s emulator-5554 shell "pm install -r /data/local/tmp/8c3d1b1372441237108d673a6fe85c8f.apk"
+> info: [debug] Forwarding system:4724 to device:4724
+> info: [debug] executing cmd: C:\Users\Sunil\AppData\Local\Android\Sdk\platform-tools\adb.exe -s emulator-5554 forward tcp:4724 tcp:4724
+> info: [debug] Pushing appium bootstrap to device...
+> info: [debug] executing cmd: C:\Users\Sunil\AppData\Local\Android\Sdk\platform-tools\adb.exe -s emulator-5554 push "C:\\Program Files (x86)\\Appium\\node_modules\\appium\\build\\android_bootstrap\\AppiumBootstrap.jar" /data/local/tmp/
+> info: [debug] Pushing settings apk to device...
+> info: [debug] executing cmd: C:\Users\Sunil\AppData\Local\Android\Sdk\platform-tools\adb.exe -s emulator-5554 install "C:\Program Files (x86)\Appium\node_modules\appium\build\settings_apk\settings_apk-debug.apk"
+> info: [debug] Pushing unlock helper app to device...
+> info: [debug] executing cmd: C:\Users\Sunil\AppData\Local\Android\Sdk\platform-tools\adb.exe -s emulator-5554 install "C:\Program Files (x86)\Appium\node_modules\appium\build\unlock_apk\unlock_apk-debug.apk"
+> info: Starting App
+> info: [debug] Attempting to kill all 'uiautomator' processes
+> info: [debug] Getting all processes with 'uiautomator'
+> info: [debug] executing cmd: C:\Users\Sunil\AppData\Local\Android\Sdk\platform-tools\adb.exe -s emulator-5554 shell "ps 'uiautomator'"
+> info: [debug] No matching processes found
+> info: [debug] Running bootstrap
+> info: [debug] spawning: C:\Users\Sunil\AppData\Local\Android\Sdk\platform-tools\adb.exe -s emulator-5554 shell uiautomator runtest AppiumBootstrap.jar -c io.appium.android.bootstrap.Bootstrap -e pkg com.bt.bms -e disableAndroidWatchers false
+> info: [debug] [UIAUTOMATOR STDOUT] INSTRUMENTATION_STATUS: numtests=1
+> info: [debug] [UIAUTOMATOR STDOUT] INSTRUMENTATION_STATUS: stream=
+> info: [debug] [UIAUTOMATOR STDOUT] io.appium.android.bootstrap.Bootstrap:
+> info: [debug] [UIAUTOMATOR STDOUT] INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+> info: [debug] [UIAUTOMATOR STDOUT] INSTRUMENTATION_STATUS: test=testRunServer
+> info: [debug] [UIAUTOMATOR STDOUT] INSTRUMENTATION_STATUS: class=io.appium.android.bootstrap.Bootstrap
+> info: [debug] [UIAUTOMATOR STDOUT] INSTRUMENTATION_STATUS: current=1
+> info: [debug] [UIAUTOMATOR STDOUT] INSTRUMENTATION_STATUS_CODE: 1
+> info: [debug] [BOOTSTRAP] [debug] Socket opened on port 4724
+> info: [debug] [BOOTSTRAP] [debug] Appium Socket Server Ready
+> info: [debug] [BOOTSTRAP] [debug] Loading json...
+> info: [debug] [BOOTSTRAP] [debug] json loading complete.
+> info: [debug] [BOOTSTRAP] [debug] Registered crash watchers.
+> info: [debug] Waking up device if it's not alive
+> info: [debug] Pushing command to appium work queue: ["wake",{}]
+> info: [debug] [BOOTSTRAP] [debug] Client connected
+> info: [debug] [BOOTSTRAP] [debug] Got data from client: {"cmd":"action","action":"wake","params":{}}
+> info: [debug] [BOOTSTRAP] [debug] Got command of type ACTION
+> info: [debug] [BOOTSTRAP] [debug] Got command action: wake
+> info: [debug] executing cmd: C:\Users\Sunil\AppData\Local\Android\Sdk\platform-tools\adb.exe -s emulator-5554 shell "dumpsys window"
+> info: [debug] [BOOTSTRAP] [debug] Returning result: {"status":0,"value":true}
+> info: [debug] Screen already unlocked, continuing.
+> info: [debug] Pushing command to appium work queue: ["getDataDir",{}]
+> info: [debug] [BOOTSTRAP] [debug] Got data from client: {"cmd":"action","action":"getDataDir","params":{}}
+> info: [debug] [BOOTSTRAP] [debug] Got command of type ACTION
+> info: [debug] [BOOTSTRAP] [debug] Got command action: getDataDir
+> info: [debug] [BOOTSTRAP] [debug] Returning result: {"status":0,"value":"\/data"}
+> info: [debug] dataDir set to: /data
+> info: [debug] Pushing command to appium work queue: ["compressedLayoutHierarchy",{"compressLayout":false}]
+> info: [debug] [BOOTSTRAP] [debug] Got data from client: {"cmd":"action","action":"compressedLayoutHierarchy","params":{"compressLayout":false}}
+> info: [debug] [BOOTSTRAP] [debug] Got command of type ACTION
+> info: [debug] [BOOTSTRAP] [debug] Got command action: compressedLayoutHierarchy
+> info: [debug] Getting device API level
+> info: [debug] executing cmd: C:\Users\Sunil\AppData\Local\Android\Sdk\platform-tools\adb.exe -s emulator-5554 shell "getprop ro.build.version.sdk"
+> info: [debug] [BOOTSTRAP] [debug] Returning result: {"status":0,"value":false}
+> info: [debug] Device is at API Level 23
+> info: [debug] executing cmd: C:\Users\Sunil\AppData\Local\Android\Sdk\platform-tools\adb.exe -s emulator-5554 shell "am start -S -a android.intent.action.MAIN -c android.intent.category.LAUNCHER -f 0x10200000 -n com.bt.bms/com.bt.bms.activities.SplashActivity"
+> info: [debug] Waiting for pkg "com.bt.bms" and activity "com.bt.bms.activities.SplashActivity" to be focused
+> info: [debug] Getting focused package and activity
+> info: [debug] executing cmd: C:\Users\Sunil\AppData\Local\Android\Sdk\platform-tools\adb.exe -s emulator-5554 shell "dumpsys window windows"
+> info: [debug] executing cmd: C:\Users\Sunil\AppData\Local\Android\Sdk\platform-tools\adb.exe -s emulator-5554 shell "getprop ro.build.version.release"
+> info: [debug] Device is at release version 6.0
+> info: [debug] Device launched! Ready for commands
+> info: [debug] Setting command timeout to the default of 60 secs
+> info: [debug] Appium session started with sessionId 349ca970-6db9-4f0c-ad87-d0158a025351
+> info: <-- POST /wd/hub/session 303 60701.887 ms - 74 
+> info: --> GET /wd/hub/session/349ca970-6db9-4f0c-ad87-d0158a025351 {}
+> info: [debug] Responding to client with success: {"status":0,"value":{"platform":"LINUX","browserName":"Android","platformVersion":"6.0","webStorageEnabled":false,"takesScreenshot":true,"javascriptEnabled":true,"databaseEnabled":false,"networkConnectionEnabled":true,"locationContextEnabled":false,"warnings":{},"desired":{"app":"C:\\Users\\Sunil\\workspace\\AppiumIntro\\src\\bookMyShow-ucb.apk","platformName":"Android","deviceName":"Android Emulator"},"app":"C:\\Users\\Sunil\\workspace\\AppiumIntro\\src\\bookMyShow-ucb.apk","platformName":"Android","deviceName":"emulator-5554"},"sessionId":"349ca970-6db9-4f0c-ad87-d0158a025351"}
+> info: <-- GET /wd/hub/session/349ca970-6db9-4f0c-ad87-d0158a025351 200 7.400 ms - 586 {"status":0,"value":{"platform":"LINUX","browserName":"Android","platformVersion":"6.0","webStorageEnabled":false,"takesScreenshot":true,"javascriptEnabled":true,"databaseEnabled":false,"networkConnectionEnabled":true,"locationContextEnabled":false,"warnings":{},"desired":{"app":"C:\\Users\\Sunil\\workspace\\AppiumIntro\\src\\bookMyShow-ucb.apk","platformName":"Android","deviceName":"Android Emulator"},"app":"C:\\Users\\Sunil\\workspace\\AppiumIntro\\src\\bookMyShow-ucb.apk","platformName":"Android","deviceName":"emulator-5554"},"sessionId":"349ca970-6db9-4f0c-ad87-d0158a025351"}
+> info: [debug] Didn't get a new command in 60 secs, shutting down...
+> info: Shutting down appium session
+> info: [debug] Pressing the HOME button
+> info: [debug] executing cmd: C:\Users\Sunil\AppData\Local\Android\Sdk\platform-tools\adb.exe -s emulator-5554 shell "input keyevent 3"
+> info: [debug] Stopping logcat capture
+> info: [debug] Logcat terminated with code null, signal SIGTERM
+> info: [debug] Sent shutdown command, waiting for UiAutomator to stop...
+> info: [debug] [BOOTSTRAP] [debug] Got data from client: {"cmd":"shutdown"}
+> info: [debug] [BOOTSTRAP] [debug] Got command of type SHUTDOWN
+> info: [debug] [BOOTSTRAP] [debug] Returning result: {"status":0,"value":"OK, shutting down"}
+> info: [debug] [BOOTSTRAP] [debug] Closed client connection
+> info: [debug] [UIAUTOMATOR STDOUT] INSTRUMENTATION_STATUS: numtests=1
+> info: [debug] [UIAUTOMATOR STDOUT] INSTRUMENTATION_STATUS: stream=.
+> info: [debug] [UIAUTOMATOR STDOUT] INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+> info: [debug] [UIAUTOMATOR STDOUT] INSTRUMENTATION_STATUS: test=testRunServer
+> info: [debug] [UIAUTOMATOR STDOUT] INSTRUMENTATION_STATUS: class=io.appium.android.bootstrap.Bootstrap
+> info: [debug] [UIAUTOMATOR STDOUT] INSTRUMENTATION_STATUS: current=1
+> info: [debug] [UIAUTOMATOR STDOUT] INSTRUMENTATION_STATUS_CODE: 0
+> info: [debug] [UIAUTOMATOR STDOUT] INSTRUMENTATION_STATUS: stream=
+> info: [debug] [UIAUTOMATOR STDOUT] Test results for WatcherResultPrinter=.
+> info: [debug] [UIAUTOMATOR STDOUT] Time: 65.035
+> info: [debug] [UIAUTOMATOR STDOUT] OK (1 test)
+> info: [debug] [UIAUTOMATOR STDOUT] INSTRUMENTATION_STATUS_CODE: -1
+> info: [debug] UiAutomator shut down normally
+> info: [debug] Cleaning up android objects
+> info: [debug] Cleaning up appium session
+> info: [debug] We shut down because no new commands came in

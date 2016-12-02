@@ -1,0 +1,60 @@
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Users\Sunil\Downloads\Console2>cd D:
+D:\
+
+C:\Users\Sunil\Downloads\Console2>D:
+
+D:\>cd SM
+
+D:\SM>cd gitrepos
+
+D:\SM\gitrepos>cd SM
+The system cannot find the path specified.
+
+D:\SM\gitrepos>cd QA
+
+D:\SM\gitrepos\QA>cd QATEST
+
+D:\SM\gitrepos\QA\QATEST>cd smsdk.qafw
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>git branch
+  master
+* splatform
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>git fetch
+fatal: unable to access 'http://code.corp.surveymonkey.com/QA/smsdk.qafw.git/': Failed to connect to code.corp.surveymonkey.com port 80: Timed out
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>git fetch
+remote: Counting objects: 125, done.
+remote: Compressing objects: 100% (116/116), done.
+Receiving objects: 100% (125/125), 84.20 KiB | 77.00 KiB/s, done.
+emote: Total 125 (delta 54), reused 0 (delta 0), pack-reused 0
+Resolving deltas: 100% (54/54), done.
+From http://code.corp.surveymonkey.com/QA/smsdk.qafw
+   9c8f237..bf8d66a  CREATE-6414 -> origin/CREATE-6414
+   e841996..dc3268d  SPAGE-1265 -> origin/SPAGE-1265
+   7c404f6..5a163ac  SPAGE-2357 -> origin/SPAGE-2357
+   c747fa2..a4caec6  beta_grid_handler -> origin/beta_grid_handler
+ * [new branch]      betag      -> origin/betag
+   5048ccb..5e14847  master     -> origin/master
+ * [new branch]      splatform_iframe_preview -> origin/splatform_iframe_preview
+ * [new tag]         0.12.11    -> 0.12.11
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>git checkout CRETE-6414
+error: pathspec 'CRETE-6414' did not match any file(s) known to git.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>git checkout CREATE-6414
+Branch CREATE-6414 set up to track remote branch CREATE-6414 from origin.
+Switched to a new branch 'CREATE-6414'
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>git branch
+* CREATE-6414
+  master
+  splatform
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>git checkout -b CREATE-6414-Vishal-July-28
+Switched to a new branch 'CREATE-6414-Vishal-July-28'
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>

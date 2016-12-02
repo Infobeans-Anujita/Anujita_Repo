@@ -1,0 +1,496 @@
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Users\Sunil\Downloads\Console2>cd D:
+D:\
+
+C:\Users\Sunil\Downloads\Console2>d:
+
+D:\>cd SM\gitrepos\QA\QATEST
+
+D:\SM\gitrepos\QA\QATEST>Scripts\activate
+
+(QATEST) D:\SM\gitrepos\QA\QATEST>ls -ltr
+'ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+(QATEST) D:\SM\gitrepos\QA\QATEST>cd createweb
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>git branch
+* automation_v2
+  develop
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>git pull
+fatal: unable to access 'http://code.corp.surveymonkey.com/devmonkeys/createweb.git/': Couldn't resolve host 'code.corp.surveymonkey.com'
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>cd ..
+
+(QATEST) D:\SM\gitrepos\QA\QATEST>cd ResponseWeb
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\ResponseWeb>git branch
+  develop
+* movingqa_v2
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\ResponseWeb>cd ..
+
+(QATEST) D:\SM\gitrepos\QA\QATEST>cd smsdk.qafw
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\smsdk.qafw>git branch
+  master
+* splatform
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\smsdk.qafw>git branch -r
+  origin/BILLING-5193
+  origin/BILLING-5249
+  origin/BILLING-5258
+  origin/CREATE-6085
+  origin/CREATE-6414
+  origin/HEAD -> origin/master
+  origin/SPAGE-1265
+  origin/SPAGE-2357
+  origin/USER-REFACTOR-1
+  origin/beta_grid_handler
+  origin/fix_tox
+  origin/gru
+  origin/master
+  origin/revert-206-fix-upgrade
+  origin/sam_esla_fix_sign_in_cli_certs
+  origin/splatform
+  origin/splatform_session_driver
+  origin/splatform_testrail
+  origin/tpb_jenkins_fixes
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+(QATEST) D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+(QATEST) D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+(QATEST) D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+(QATEST) D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+(QATEST) D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+(QATEST) D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+(QATEST) D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+(QATEST) D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+(QATEST) D:\SM\gitrepos\QA\QATEST\smsdk.qafw>cd ..
+
+(QATEST) D:\SM\gitrepos\QA\QATEST>cd createweb
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>dir
+ Volume in drive D has no label.
+ Volume Serial Number is 6060-3210
+
+ Directory of D:\SM\gitrepos\QA\QATEST\createweb
+
+07/26/2016  08:55 PM    <DIR>          .
+07/26/2016  08:55 PM    <DIR>          ..
+07/26/2016  08:12 PM    <DIR>          .cache
+07/25/2016  07:39 PM               716 .gitignore
+07/25/2016  07:39 PM             2,387 .jscsrc
+07/25/2016  07:39 PM               497 .jshintrc
+07/25/2016  07:39 PM             1,449 .scss-lint.yml
+07/26/2016  08:13 PM    <DIR>          automation
+07/25/2016  07:39 PM             6,661 CHANGES.md
+07/25/2016  07:39 PM                29 CHANGES.txt
+07/25/2016  07:39 PM    <DIR>          createweb
+07/25/2016  07:40 PM             2,289 development.ini
+07/25/2016  07:40 PM    <DIR>          etc
+07/25/2016  07:39 PM             1,484 Gruntfile.js
+07/25/2016  07:39 PM                34 immunio.ini
+07/25/2016  07:39 PM               229 MANIFEST.in
+07/25/2016  07:39 PM                56 message-extraction.ini
+07/25/2016  07:39 PM             1,021 package.json
+07/25/2016  07:39 PM               338 project.yml
+07/25/2016  07:39 PM             8,333 pylint.rc
+07/25/2016  07:40 PM             8,059 pylint_automation.rc
+07/25/2016  07:40 PM               223 qa-runfail.sh
+07/25/2016  07:40 PM               220 qa-setup-qafw.sh
+07/25/2016  07:40 PM             1,318 qa-test-requirements-copy.txt
+07/26/2016  08:55 PM             1,258 qa-test-requirements.txt
+07/25/2016  07:39 PM               595 readme.md
+07/25/2016  07:39 PM               515 README.txt
+07/25/2016  07:39 PM               381 requirements.apt
+07/25/2016  07:39 PM               119 requirements.deb
+07/25/2016  07:40 PM    <DIR>          results
+07/25/2016  07:40 PM               994 setup.cfg
+07/25/2016  07:40 PM             2,408 setup.py
+07/25/2016  07:39 PM                31 startup.sh
+07/25/2016  07:39 PM               145 test-requirements.txt
+07/25/2016  07:40 PM               871 test.ini
+07/25/2016  07:39 PM    <DIR>          tests
+07/25/2016  07:40 PM             1,709 tox.ini
+07/25/2016  07:39 PM                 6 VERSION
+07/25/2016  07:39 PM                 0 __init__.py
+07/26/2016  08:08 PM               133 __init__.pyc
+              32 File(s)         44,508 bytes
+               8 Dir(s)  210,869,239,808 bytes free
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>git branch
+* automation_v2
+  develop
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>cd automation
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation>dir
+ Volume in drive D has no label.
+ Volume Serial Number is 6060-3210
+
+ Directory of D:\SM\gitrepos\QA\QATEST\createweb\automation
+
+07/26/2016  08:13 PM    <DIR>          .
+07/26/2016  08:13 PM    <DIR>          ..
+07/26/2016  08:13 PM    <DIR>          1PreTest
+07/26/2016  08:13 PM    <DIR>          accounts
+07/26/2016  08:13 PM    <DIR>          advanced_branching
+07/26/2016  08:13 PM    <DIR>          Advanced_Piping
+07/26/2016  08:13 PM    <DIR>          asset_library
+07/26/2016  08:13 PM    <DIR>          builder
+07/25/2016  07:39 PM             9,572 conftest.py
+07/26/2016  08:08 PM            10,294 conftest.pyc
+07/26/2016  08:13 PM    <DIR>          design
+07/26/2016  08:13 PM    <DIR>          editing_limitations
+07/26/2016  09:50 PM            18,915 junit.xml
+07/26/2016  08:13 PM    <DIR>          logic
+07/26/2016  08:13 PM    <DIR>          max_limits
+07/26/2016  08:13 PM    <DIR>          NPS
+07/26/2016  08:13 PM    <DIR>          questiontypes
+07/26/2016  08:13 PM    <DIR>          question_bank
+07/26/2016  08:13 PM    <DIR>          question_bank_library
+07/26/2016  08:13 PM    <DIR>          single_page_mode
+07/26/2016  08:13 PM    <DIR>          slider_question_type
+07/26/2016  08:08 PM    <DIR>          step1
+07/26/2016  08:13 PM    <DIR>          switch_question_types
+07/26/2016  08:13 PM    <DIR>          switch_question_types_v1
+07/26/2016  08:13 PM    <DIR>          tbyb
+07/25/2016  07:39 PM             3,924 test_generate_user.py
+07/26/2016  09:50 PM    <DIR>          test_results
+07/26/2016  08:13 PM    <DIR>          themes
+07/25/2016  07:39 PM                 0 __init__.py
+07/26/2016  08:08 PM               144 __init__.pyc
+07/26/2016  08:13 PM    <DIR>          __pycache__
+               6 File(s)         42,849 bytes
+              25 Dir(s)  210,869,239,808 bytes free
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation>dir
+ Volume in drive D has no label.
+ Volume Serial Number is 6060-3210
+
+ Directory of D:\SM\gitrepos\QA\QATEST\createweb\automation
+
+07/26/2016  08:13 PM    <DIR>          .
+07/26/2016  08:13 PM    <DIR>          ..
+07/26/2016  08:13 PM    <DIR>          1PreTest
+07/26/2016  08:13 PM    <DIR>          accounts
+07/26/2016  08:13 PM    <DIR>          advanced_branching
+07/26/2016  08:13 PM    <DIR>          Advanced_Piping
+07/26/2016  08:13 PM    <DIR>          asset_library
+07/26/2016  08:13 PM    <DIR>          builder
+07/25/2016  07:39 PM             9,572 conftest.py
+07/26/2016  08:08 PM            10,294 conftest.pyc
+07/26/2016  08:13 PM    <DIR>          design
+07/26/2016  08:13 PM    <DIR>          editing_limitations
+07/26/2016  09:50 PM            18,915 junit.xml
+07/26/2016  08:13 PM    <DIR>          logic
+07/26/2016  08:13 PM    <DIR>          max_limits
+07/26/2016  08:13 PM    <DIR>          NPS
+07/26/2016  08:13 PM    <DIR>          questiontypes
+07/26/2016  08:13 PM    <DIR>          question_bank
+07/26/2016  08:13 PM    <DIR>          question_bank_library
+07/26/2016  08:13 PM    <DIR>          single_page_mode
+07/26/2016  08:13 PM    <DIR>          slider_question_type
+07/26/2016  08:08 PM    <DIR>          step1
+07/26/2016  08:13 PM    <DIR>          switch_question_types
+07/26/2016  08:13 PM    <DIR>          switch_question_types_v1
+07/26/2016  08:13 PM    <DIR>          tbyb
+07/25/2016  07:39 PM             3,924 test_generate_user.py
+07/26/2016  09:50 PM    <DIR>          test_results
+07/26/2016  08:13 PM    <DIR>          themes
+07/25/2016  07:39 PM                 0 __init__.py
+07/26/2016  08:08 PM               144 __init__.pyc
+07/26/2016  08:13 PM    <DIR>          __pycache__
+               6 File(s)         42,849 bytes
+              25 Dir(s)  210,869,235,712 bytes free
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation>git branch
+* automation_v2
+  develop
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation>git fetch
+fatal: unable to access 'http://code.corp.surveymonkey.com/devmonkeys/createweb.git/': Failed to connect to code.corp.surveymonkey.com port 80: Timed out
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation>git fetch
+remote: Counting objects: 312, done.
+remote: Compressing objects: 100% (188/188), done.
+Receiving objects: 100% (312/312), 76.00 KiB | 63.00 KiB/s
+Receiving objects: 100% (312/312), 94.52 KiB | 63.00 KiB/s, done.
+Resolving deltas: 100% (196/196), completed with 45 local objects.
+From http://code.corp.surveymonkey.com/devmonkeys/createweb
+   fd35a15..ece8900  automation_v2 -> origin/automation_v2
+   7a3f51a..31ea3d1  CREATE-6414 -> origin/CREATE-6414
+ * [new branch]      CREATE-6442 -> origin/CREATE-6442
+ * [new branch]      CREATE-6445 -> origin/CREATE-6445
+ * [new branch]      automation_v2_testrail2 -> origin/automation_v2_testrail2
+   4f73f4a..6205abc  copy_paste_step2 -> origin/copy_paste_step2
+ * [new branch]      create-5964 -> origin/create-5964
+   bac0a22..a191f20  develop    -> origin/develop
+ + c7be59c...f6ac95b js_tests   -> origin/js_tests  (forced update)
+   41a7aa9..450ac13  master     -> origin/master
+ * [new tag]         2108       -> 2108
+ * [new tag]         v75.0.1    -> v75.0.1
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation>git checkout CREATE-6414
+error: Your local changes to the following files would be overwritten by checkout:
+        qa-test-requirements.txt
+Please commit your changes or stash them before you can switch branches.
+Aborting
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation>git status
+On branch automation_v2
+Your branch is behind 'origin/automation_v2' by 2 commits, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   ../qa-test-requirements.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        ../qa-test-requirements-copy.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation>git checkout ../qa-test-requirements-copy.txt
+error: pathspec '../qa-test-requirements-copy.txt' did not match any file(s) known to git.
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation>git checkout ../qa-test-requirements-copy.txt
+error: pathspec '../qa-test-requirements-copy.txt' did not match any file(s) known to git.
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation>cd ..
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>git status
+On branch automation_v2
+Your branch is behind 'origin/automation_v2' by 2 commits, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   qa-test-requirements.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        qa-test-requirements-copy.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>git checkout qa-test-requirements-copy.txt
+error: pathspec 'qa-test-requirements-copy.txt' did not match any file(s) known to git.
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>ls
+'ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>dir
+ Volume in drive D has no label.
+ Volume Serial Number is 6060-3210
+
+ Directory of D:\SM\gitrepos\QA\QATEST\createweb
+
+07/26/2016  08:55 PM    <DIR>          .
+07/26/2016  08:55 PM    <DIR>          ..
+07/26/2016  08:12 PM    <DIR>          .cache
+07/25/2016  07:39 PM               716 .gitignore
+07/25/2016  07:39 PM             2,387 .jscsrc
+07/25/2016  07:39 PM               497 .jshintrc
+07/25/2016  07:39 PM             1,449 .scss-lint.yml
+07/26/2016  08:13 PM    <DIR>          automation
+07/25/2016  07:39 PM             6,661 CHANGES.md
+07/25/2016  07:39 PM                29 CHANGES.txt
+07/25/2016  07:39 PM    <DIR>          createweb
+07/25/2016  07:40 PM             2,289 development.ini
+07/25/2016  07:40 PM    <DIR>          etc
+07/25/2016  07:39 PM             1,484 Gruntfile.js
+07/25/2016  07:39 PM                34 immunio.ini
+07/25/2016  07:39 PM               229 MANIFEST.in
+07/25/2016  07:39 PM                56 message-extraction.ini
+07/25/2016  07:39 PM             1,021 package.json
+07/25/2016  07:39 PM               338 project.yml
+07/25/2016  07:39 PM             8,333 pylint.rc
+07/25/2016  07:40 PM             8,059 pylint_automation.rc
+07/25/2016  07:40 PM               223 qa-runfail.sh
+07/25/2016  07:40 PM               220 qa-setup-qafw.sh
+07/25/2016  07:40 PM             1,318 qa-test-requirements-copy.txt
+07/26/2016  08:55 PM             1,258 qa-test-requirements.txt
+07/25/2016  07:39 PM               595 readme.md
+07/25/2016  07:39 PM               515 README.txt
+07/25/2016  07:39 PM               381 requirements.apt
+07/25/2016  07:39 PM               119 requirements.deb
+07/25/2016  07:40 PM    <DIR>          results
+07/25/2016  07:40 PM               994 setup.cfg
+07/25/2016  07:40 PM             2,408 setup.py
+07/25/2016  07:39 PM                31 startup.sh
+07/25/2016  07:39 PM               145 test-requirements.txt
+07/25/2016  07:40 PM               871 test.ini
+07/25/2016  07:39 PM    <DIR>          tests
+07/25/2016  07:40 PM             1,709 tox.ini
+07/25/2016  07:39 PM                 6 VERSION
+07/25/2016  07:39 PM                 0 __init__.py
+07/26/2016  08:08 PM               133 __init__.pyc
+              32 File(s)         44,508 bytes
+               8 Dir(s)  210,868,998,144 bytes free
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>git checkout qa-test-requirements-copy.txt
+error: pathspec 'qa-test-requirements-copy.txt' did not match any file(s) known to git.
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>git checkout qa-test-requirements.txt
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>git checkout CREATE-6414
+Branch CREATE-6414 set up to track remote branch CREATE-6414 from origin.
+Switched to a new branch 'CREATE-6414'
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>git pull origin CREATE-6414
+fatal: unable to access 'http://code.corp.surveymonkey.com/devmonkeys/createweb.git/': Failed to connect to code.corp.surveymonkey.com port 80: Timed out
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>git branch
+* CREATE-6414
+  automation_v2
+  develop
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>git checkout -b CREATE-6414-Vishal-July-28
+Switched to a new branch 'CREATE-6414-Vishal-July-28'
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>dir
+ Volume in drive D has no label.
+ Volume Serial Number is 6060-3210
+
+ Directory of D:\SM\gitrepos\QA\QATEST\createweb
+
+07/28/2016  03:14 PM    <DIR>          .
+07/28/2016  03:14 PM    <DIR>          ..
+07/26/2016  08:12 PM    <DIR>          .cache
+07/28/2016  03:14 PM               673 .gitignore
+07/25/2016  07:39 PM             2,387 .jscsrc
+07/25/2016  07:39 PM               497 .jshintrc
+07/25/2016  07:39 PM             1,449 .scss-lint.yml
+07/28/2016  03:14 PM    <DIR>          automation
+07/25/2016  07:39 PM             6,661 CHANGES.md
+07/25/2016  07:39 PM                29 CHANGES.txt
+07/25/2016  07:39 PM    <DIR>          createweb
+07/25/2016  07:40 PM             2,289 development.ini
+07/25/2016  07:40 PM    <DIR>          etc
+07/25/2016  07:39 PM             1,484 Gruntfile.js
+07/25/2016  07:39 PM                34 immunio.ini
+07/25/2016  07:39 PM               229 MANIFEST.in
+07/25/2016  07:39 PM                56 message-extraction.ini
+07/25/2016  07:39 PM             1,021 package.json
+07/25/2016  07:39 PM               338 project.yml
+07/25/2016  07:39 PM             8,333 pylint.rc
+07/25/2016  07:40 PM             8,059 pylint_automation.rc
+07/25/2016  07:40 PM               223 qa-runfail.sh
+07/25/2016  07:40 PM               220 qa-setup-qafw.sh
+07/25/2016  07:40 PM             1,318 qa-test-requirements-copy.txt
+07/28/2016  03:14 PM             1,318 qa-test-requirements.txt
+07/25/2016  07:39 PM               595 readme.md
+07/25/2016  07:39 PM               515 README.txt
+07/25/2016  07:39 PM               381 requirements.apt
+07/25/2016  07:39 PM               119 requirements.deb
+07/25/2016  07:40 PM    <DIR>          results
+07/25/2016  07:40 PM               994 setup.cfg
+07/25/2016  07:40 PM             2,408 setup.py
+07/25/2016  07:39 PM                31 startup.sh
+07/25/2016  07:39 PM               145 test-requirements.txt
+07/25/2016  07:40 PM               871 test.ini
+07/25/2016  07:39 PM    <DIR>          tests
+07/25/2016  07:40 PM             1,709 tox.ini
+07/25/2016  07:39 PM                 6 VERSION
+07/25/2016  07:39 PM                 0 __init__.py
+07/26/2016  08:08 PM               133 __init__.pyc
+              32 File(s)         44,525 bytes
+               8 Dir(s)  210,869,288,960 bytes free
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>cd automation/
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation>pwd
+'pwd' is not recognized as an internal or external command,
+operable program or batch file.
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation>ls
+'ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation>dir
+ Volume in drive D has no label.
+ Volume Serial Number is 6060-3210
+
+ Directory of D:\SM\gitrepos\QA\QATEST\createweb\automation
+
+07/28/2016  03:14 PM    <DIR>          .
+07/28/2016  03:14 PM    <DIR>          ..
+07/28/2016  03:14 PM    <DIR>          1PreTest
+07/26/2016  08:13 PM    <DIR>          accounts
+07/28/2016  03:14 PM    <DIR>          advanced_branching
+07/26/2016  08:13 PM    <DIR>          Advanced_Piping
+07/26/2016  08:13 PM    <DIR>          asset_library
+07/26/2016  08:13 PM    <DIR>          builder
+07/25/2016  07:39 PM             9,572 conftest.py
+07/26/2016  08:08 PM            10,294 conftest.pyc
+07/26/2016  08:13 PM    <DIR>          design
+07/26/2016  08:13 PM    <DIR>          editing_limitations
+07/26/2016  09:50 PM            18,915 junit.xml
+07/28/2016  03:14 PM    <DIR>          logic
+07/26/2016  08:13 PM    <DIR>          max_limits
+07/26/2016  08:13 PM    <DIR>          NPS
+07/26/2016  08:13 PM    <DIR>          questiontypes
+07/26/2016  08:13 PM    <DIR>          question_bank
+07/26/2016  08:13 PM    <DIR>          question_bank_library
+07/26/2016  08:13 PM    <DIR>          single_page_mode
+07/28/2016  03:14 PM    <DIR>          slider_question_type
+07/28/2016  03:14 PM    <DIR>          star_rating_question_type
+07/26/2016  08:08 PM    <DIR>          step1
+07/26/2016  08:13 PM    <DIR>          switch_question_types
+07/26/2016  08:13 PM    <DIR>          switch_question_types_v1
+07/26/2016  08:13 PM    <DIR>          tbyb
+07/25/2016  07:39 PM             3,924 test_generate_user.py
+07/26/2016  09:50 PM    <DIR>          test_results
+07/28/2016  03:14 PM    <DIR>          themes
+07/25/2016  07:39 PM                 0 __init__.py
+07/26/2016  08:08 PM               144 __init__.pyc
+07/26/2016  08:13 PM    <DIR>          __pycache__
+               6 File(s)         42,849 bytes
+              26 Dir(s)  210,869,288,960 bytes free
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation>cd ..
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>py.test automation\star_rating_question_type\test_starQType_addQuesFromAddANewQuesButton.py
+============================= test session starts =============================
+platform win32 -- Python 2.7.11, pytest-2.8.5, py-1.4.31, pluggy-0.3.1 -- D:\SM\gitrepos\QA\QATEST\Scripts\python.exe
+cachedir: .cache
+rootdir: D:\SM\gitrepos\QA\QATEST\createweb, inifile: setup.cfg
+plugins: cov-1.8.1, xdist-1.14, smsdk.qa-0.0.34
+collected 1 items
+
+automation/star_rating_question_type/test_starQType_addQuesFromAddANewQuesButton.py::test_StarQType_addQuesFromAddANewQuesButton
+Report .html file location:
+D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160728_152333-3d865c5f-8d41-41dc-b57b-7fd3bc0e2eed\History\test_StarQType_addQuesFromAddANewQuesButton20160728_152333-d6505a64-e85b-415c-9257-31a0acc85399_1.html
+D:\SM\gitrepos\QA\QATEST\lib\site-packages\requests\packages\urllib3\connectionpool.py:769: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly
+advised. See: https://urllib3.readthedocs.org/en/latest/security.html
+  InsecureRequestWarning)
+Verify Multiple Choice question
+   checks multiple choice question is added
+Verify Question Type Switched to star rating question
+   Verifies that question type switched to Star
+Verify question is updated to star rating question
+   checks that question is updated to star rating question.
+Verify star rating question Add to Live Preview
+   Verifies that star rating question added to live preview.
+PASSED
+Splunk Log File Location: D:\SM\gitrepos\QA\QATEST\createweb\results\Automation_Results_Create20160728_152333-e76e8a17-fe01-473a-bfcb-20eac24ac106_20160728_152537041.txt
+splunk log file exists
+2016-07-28 15:25:43.265 INFO log_file - add_record_to_log: Date="07/28/16 15:25:43" User_Agent="Windows 7" Product=Create Test_Case="verify adding star rating question from clicking on 'add a new question button' and then switch to Star" Type=Regression Status=Passed Box_Host="ib-pune-pc-026" Full_Report_Link="D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160728_152333-3d865c5f-8d41-41dc-b57b-7fd3bc0e2eed\History\test_StarQType_addQuesFromAddANewQuesButton20160728_152333-d6505a64-e85b-415c-9257-31a0acc85399_1.html" Environment="MT1" User_name="test_87cf42a4-b3f5-4b94-9011-f11edda29d1b" Duration="117s"
+Automation_Results_Create20160728_152333-e76e8a17-fe01-473a-bfcb-20eac24ac106_20160728_152537041.txt-->Automation_Results_Create20160728_152333-e76e8a17-fe01-473a-bfcb-20eac24ac106.txt
+
+
+------ generated xml file: D:\SM\gitrepos\QA\QATEST\createweb\junit.xml -------
+========================= 1 passed in 134.31 seconds ==========================
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>py.test automation\star_rating_question_type\test_starQType_addQuesFromAddANewQuesButton.py

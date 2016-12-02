@@ -1,0 +1,1857 @@
+
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/26/2016  08:13 PM    <DIR>          single_page_mode
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/29/2016  02:34 PM    <DIR>          slider_question_type
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/29/2016  02:34 PM    <DIR>          star_rating_question_type
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/26/2016  08:08 PM    <DIR>          step1
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/26/2016  08:13 PM    <DIR>          switch_question_types
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/26/2016  08:13 PM    <DIR>          switch_question_types_v1
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/26/2016  08:13 PM    <DIR>          tbyb
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             3,924 test_generate_user.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/26/2016  09:50 PM    <DIR>          test_results
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/29/2016  02:34 PM    <DIR>          themes
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM                 0 __init__.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/26/2016  08:08 PM               144 __init__.pyc
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/26/2016  08:13 PM    <DIR>          __pycache__
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>               6 File(s)         42,849 bytes
+'6' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>              26 Dir(s)  210,868,047,872 bytes free
+'26' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation>cd star_rating_question_type
+D:\SM\gitrepos\QA\QATEST\createweb\automation was unexpected at this time.
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation\star_rating_question_type>dir
+D:\SM\gitrepos\QA\QATEST\createweb\automation\star_rating_question_type was unexpected at this time.
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw> Volume in drive D has no label.
+'Volume' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw> Volume Serial Number is 6060-3210
+'Volume' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw> Directory of D:\SM\gitrepos\QA\QATEST\createweb\automation\star_rating_question_type
+'Directory' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/29/2016  02:34 PM    <DIR>          .
+Access is denied.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/29/2016  02:34 PM    <DIR>          ..
+Access is denied.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/28/2016  03:23 PM               170 __init__.pyc
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/28/2016  03:23 PM    <DIR>          __pycache__
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>               1 File(s)            170 bytes
+'1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>               3 Dir(s)  210,868,047,872 bytes free
+'3' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation\star_rating_question_type>cd ..
+D:\SM\gitrepos\QA\QATEST\createweb\automation\star_rating_question_type was unexpected at this time.
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation>dir
+D:\SM\gitrepos\QA\QATEST\createweb\automation was unexpected at this time.
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw> Volume in drive D has no label.
+'Volume' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw> Volume Serial Number is 6060-3210
+'Volume' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw> Directory of D:\SM\gitrepos\QA\QATEST\createweb\automation
+'Directory' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/28/2016  03:14 PM    <DIR>          .
+Access is denied.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/28/2016  03:14 PM    <DIR>          ..
+Access is denied.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/29/2016  02:34 PM    <DIR>          1PreTest
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/26/2016  08:13 PM    <DIR>          accounts
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/29/2016  02:34 PM    <DIR>          advanced_branching
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/29/2016  02:34 PM    <DIR>          Advanced_Piping
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/26/2016  08:13 PM    <DIR>          asset_library
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/26/2016  08:13 PM    <DIR>          builder
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             9,572 conftest.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/26/2016  08:08 PM            10,294 conftest.pyc
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/26/2016  08:13 PM    <DIR>          design
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/26/2016  08:13 PM    <DIR>          editing_limitations
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/26/2016  09:50 PM            18,915 junit.xml
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/29/2016  02:34 PM    <DIR>          logic
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/26/2016  08:13 PM    <DIR>          max_limits
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/26/2016  08:13 PM    <DIR>          NPS
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/26/2016  08:13 PM    <DIR>          questiontypes
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/26/2016  08:13 PM    <DIR>          question_bank
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/26/2016  08:13 PM    <DIR>          question_bank_library
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/26/2016  08:13 PM    <DIR>          single_page_mode
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/29/2016  02:34 PM    <DIR>          slider_question_type
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/29/2016  02:34 PM    <DIR>          star_rating_question_type
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/26/2016  08:08 PM    <DIR>          step1
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/26/2016  08:13 PM    <DIR>          switch_question_types
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/26/2016  08:13 PM    <DIR>          switch_question_types_v1
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/26/2016  08:13 PM    <DIR>          tbyb
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             3,924 test_generate_user.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/26/2016  09:50 PM    <DIR>          test_results
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/29/2016  02:34 PM    <DIR>          themes
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM                 0 __init__.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/26/2016  08:08 PM               144 __init__.pyc
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/26/2016  08:13 PM    <DIR>          __pycache__
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>               6 File(s)         42,849 bytes
+'6' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>              26 Dir(s)  210,868,047,872 bytes free
+'26' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation>cd question_bank_library
+D:\SM\gitrepos\QA\QATEST\createweb\automation was unexpected at this time.
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation\question_bank_library>dir
+D:\SM\gitrepos\QA\QATEST\createweb\automation\question_bank_library was unexpected at this time.
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw> Volume in drive D has no label.
+'Volume' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw> Volume Serial Number is 6060-3210
+'Volume' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw> Directory of D:\SM\gitrepos\QA\QATEST\createweb\automation\question_bank_library
+'Directory' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/26/2016  08:13 PM    <DIR>          .
+Access is denied.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/26/2016  08:13 PM    <DIR>          ..
+Access is denied.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             5,468 test_bank_addAllQuestionFromTemplateView.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             9,092 test_bank_AddQuestionToSurveyFromCard.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             5,413 test_bank_addRemoveAllTagFilter.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             4,949 test_bank_customizeModifierOnQuestionCard.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             6,173 test_bank_modalLayoutOnDiffResScreen.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             6,222 test_bank_removeAllQuestionFromTemplateView.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             7,266 test_bank_verifyAddNPSQuestion.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             7,492 test_bank_verifyAddQuestionLimit.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             4,165 test_bank_verifyAddSameQuestionMultipleTimes.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             4,741 test_bank_verifyCategories.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             4,877 test_bank_verifyCategoriesInSpanish.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             4,563 test_bank_verifyFileterWithBenchmarkQuestion.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             7,098 test_bank_verifyModalAddQuestionCheck.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM            10,024 test_bank_verifyModalRemoveQuestionCheck.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             7,659 test_bank_verifyPreviewQuestionReorderInPages.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             7,717 test_bank_verifyPreviewWarningBasicUserWithCollector.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             7,428 test_bank_verifyPreviewWarningBasicUserWithoutCollector.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM            12,538 test_bank_verifyPreviouslyAddedQuestion.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             8,361 test_bank_verifyProfileModifierPopulate.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             3,770 test_bank_verifySearchCategoryAutocomplete.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             4,384 test_bank_verifySearchKeywordInModal.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             5,710 test_bank_verifySelectQuestionFromAccordianAutocomplete.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             4,661 test_bank_verifyTemplatesAvailableInPortuguese.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/26/2016  08:13 PM    <DIR>          __pycache__
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>              23 File(s)        149,771 bytes
+'23' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>               3 Dir(s)  210,868,047,872 bytes free
+'3' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation\question_bank_library>git branch
+D:\SM\gitrepos\QA\QATEST\createweb\automation\question_bank_library was unexpected at this time.
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>  CREATE-6414
+'CREATE-6414' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>  CREATE-6414-Vishal-July-28
+'CREATE-6414-Vishal-July-28' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>* automation_v2
+'*' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>  develop
+'develop' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation\question_bank_library>git checkout -b automation_v2_july_29
+D:\SM\gitrepos\QA\QATEST\createweb\automation\question_bank_library was unexpected at this time.
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Switched to a new branch 'automation_v2_july_29'
+'Switched' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation\question_bank_library>dir
+D:\SM\gitrepos\QA\QATEST\createweb\automation\question_bank_library was unexpected at this time.
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw> Volume in drive D has no label.
+'Volume' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw> Volume Serial Number is 6060-3210
+'Volume' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw> Directory of D:\SM\gitrepos\QA\QATEST\createweb\automation\question_bank_library
+'Directory' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/26/2016  08:13 PM    <DIR>          .
+Access is denied.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/26/2016  08:13 PM    <DIR>          ..
+Access is denied.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             5,468 test_bank_addAllQuestionFromTemplateView.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             9,092 test_bank_AddQuestionToSurveyFromCard.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             5,413 test_bank_addRemoveAllTagFilter.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             4,949 test_bank_customizeModifierOnQuestionCard.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             6,173 test_bank_modalLayoutOnDiffResScreen.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             6,222 test_bank_removeAllQuestionFromTemplateView.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             7,266 test_bank_verifyAddNPSQuestion.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             7,492 test_bank_verifyAddQuestionLimit.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             4,165 test_bank_verifyAddSameQuestionMultipleTimes.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             4,741 test_bank_verifyCategories.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             4,877 test_bank_verifyCategoriesInSpanish.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             4,563 test_bank_verifyFileterWithBenchmarkQuestion.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             7,098 test_bank_verifyModalAddQuestionCheck.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM            10,024 test_bank_verifyModalRemoveQuestionCheck.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             7,659 test_bank_verifyPreviewQuestionReorderInPages.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             7,717 test_bank_verifyPreviewWarningBasicUserWithCollector.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             7,428 test_bank_verifyPreviewWarningBasicUserWithoutCollector.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM            12,538 test_bank_verifyPreviouslyAddedQuestion.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             8,361 test_bank_verifyProfileModifierPopulate.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             3,770 test_bank_verifySearchCategoryAutocomplete.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             4,384 test_bank_verifySearchKeywordInModal.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             5,710 test_bank_verifySelectQuestionFromAccordianAutocomplete.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/25/2016  07:39 PM             4,661 test_bank_verifyTemplatesAvailableInPortuguese.py
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>07/26/2016  08:13 PM    <DIR>          __pycache__
+'07' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>              23 File(s)        149,771 bytes
+'23' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>               3 Dir(s)  210,868,056,064 bytes free
+'3' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation\question_bank_library>py.test test_bank_verifyPreviewQuestionReorderInPages.py
+D:\SM\gitrepos\QA\QATEST\createweb\automation\question_bank_library was unexpected at this time.
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>============================= test session starts =============================
+'test' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>platform win32 -- Python 2.7.11, pytest-2.8.5, py-1.4.31, pluggy-0.3.1 -- D:\SM\gitrepos\QA\QATEST\Scripts\python.exe
+'platform' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>cachedir: ..\..\.cache
+'cachedir:' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>rootdir: D:\SM\gitrepos\QA\QATEST\createweb, inifile: setup.cfg
+'rootdir:' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>plugins: cov-1.8.1, xdist-1.14, smsdk.qa-0.0.34
+'plugins:' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>collected 1 items
+'collected' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>test_bank_verifyPreviewQuestionReorderInPages.py::test_bank_verify_preview_question_reorder_in_pages
+The filename, directory name, or volume label syntax is incorrect.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Report .html file location:
+'Report' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>D:\SM\gitrepos\QA\QATEST\createweb\automation\question_bank_library\test_results\20160729_144701-08daddd8-5385-434a-8265-a5ccbca6b9de\History\test_bank_verifyPreviewQuestionReorderInPages20160729_144701-2c46f390-0cd1-4214-89e7-a31c70729b70_1.html
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>D:\SM\gitrepos\QA\QATEST\lib\site-packages\requests\packages\urllib3\connectionpool.py:769: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly
+The filename, directory name, or volume label syntax is incorrect.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>advised. See: https://urllib3.readthedocs.org/en/latest/security.html
+'advised.' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>  InsecureRequestWarning)
+'InsecureRequestWarning)' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify new page is added or not
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   check to make sure that new page is added in Live preview
+'check' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify open AllCategories Category
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   Clicks on AllCategories and makes sure that it opens with AllCategories as hero button
+'Clicks' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Exception message: Message: ElementSpec.find_elements(): Can not find elements!  By_Key: <xpath>;  By_Value: <//div[contains(@id,'qbl-preview-list')]//div[1]//ul/li[contains(@id, 'qbl-preview-card-qb-question-')]>
+The syntax of the command is incorrect.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify Page Question Count Before Reordering
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   Verify Page Question Count Before Reordering between page 1 and 2.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Exception message: Message: ElementSpec.find_elements(): Can not find elements!  By_Key: <xpath>;  By_Value: <//div[contains(@id,'qbl-preview-list')]//div[1]//ul/li[contains(@id, 'qbl-preview-card-qb-question-')]>
+The syntax of the command is incorrect.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>FAILED2016-07-29 14:48:28.739 ERROR reporting - _assign_splunk_log_file: Splunk reports location base dir <results> doesn't exist.
+'FAILED2016-07-29' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>None
+'None' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>================================== FAILURES ===================================
+'FAILURES' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>_____________ test_bank_verify_preview_question_reorder_in_pages ______________
+'_____________' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>test_bank_verifyPreviewQuestionReorderInPages.py:164: in test_bank_verify_preview_question_reorder_in_pages
+The filename, directory name, or volume label syntax is incorrect.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>    assert False, traceback.format_exc()
+'assert' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>E   AssertionError: Traceback (most recent call last):
+'E' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>E       File "D:\SM\gitrepos\QA\QATEST\createweb\automation\question_bank_library\test_bank_verifyPreviewQuestionReorderInPages.py", line 104, in test_bank_verify_preview_question_reorder_in_pages
+'E' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>E         ex1 = mySurvey.myQBank.verify_preview_page_question_count(1, 2)
+'E' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>E       File "d:\sm\gitrepos\qa\qatest\smsdk.qafw\smsdk\qafw\create\question_bank_library.py", line 972, in verify_preview_page_question_count
+'E' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>E         if len(weCount) == int(totalQuestions):
+'E' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>E     TypeError: object of type 'NoneType' has no len()
+'E' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>E
+'E' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>E   assert False
+'E' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw> generated xml file: D:\SM\gitrepos\QA\QATEST\createweb\automation\question_bank_library\junit.xml
+'generated' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>=========================== short test summary info ===========================
+'short' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>FAIL test_bank_verifyPreviewQuestionReorderInPages.py::test_bank_verify_preview_question_reorder_in_pages
+'FAIL' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>========================== 1 failed in 87.67 seconds ==========================
+'1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation\question_bank_library>cd ../../
+D:\SM\gitrepos\QA\QATEST\createweb\automation\question_bank_library was unexpected at this time.
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>py.test -v -s --domain=MT2 automation\question_bank_library\test_bank_verifyPreviewQuestionReorderInPages.py
+D:\SM\gitrepos\QA\QATEST\createweb was unexpected at this time.
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>============================= test session starts =============================
+'test' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>platform win32 -- Python 2.7.11, pytest-2.8.5, py-1.4.31, pluggy-0.3.1 -- D:\SM\gitrepos\QA\QATEST\Scripts\python.exe
+'platform' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>cachedir: .cache
+'cachedir:' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>rootdir: D:\SM\gitrepos\QA\QATEST\createweb, inifile: setup.cfg
+'rootdir:' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>plugins: cov-1.8.1, xdist-1.14, smsdk.qa-0.0.34
+'plugins:' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>collected 1 items
+'collected' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>automation/question_bank_library/test_bank_verifyPreviewQuestionReorderInPages.py::test_bank_verify_preview_question_reorder_in_pages
+'automation' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Report .html file location:
+'Report' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_151907-4470d56c-ad85-40df-9bdb-f0c65ca94f63\History\test_bank_verifyPreviewQuestionReorderInPages20160729_151907-3095ed4e-ef63-4732-97d2-0fa8a41c03db_1.html
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>D:\SM\gitrepos\QA\QATEST\lib\site-packages\requests\packages\urllib3\connectionpool.py:769: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly
+The filename, directory name, or volume label syntax is incorrect.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>advised. See: https://urllib3.readthedocs.org/en/latest/security.html
+'advised.' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>  InsecureRequestWarning)
+'InsecureRequestWarning)' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify new page is added or not
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   check to make sure that new page is added in Live preview
+'check' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify open AllCategories Category
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   Clicks on AllCategories and makes sure that it opens with AllCategories as hero button
+'Clicks' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Exception message: Message: ElementSpec.find_elements(): Can not find elements!  By_Key: <xpath>;  By_Value: <//div[contains(@id,'qbl-preview-list')]//div[1]//ul/li[contains(@id, 'qbl-preview-card-qb-question-')]>
+The syntax of the command is incorrect.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify Page Question Count Before Reordering
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   Verify Page Question Count Before Reordering between page 1 and 2.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify Page Question Count After Reordering
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   Verify Page Question Count After Reordering between page 1 and 2.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify Question Added Into Main Survey
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   Verify that preview question gets added into main survey or not by clicking on Add button present at preview window
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify Preview and Main survey questions
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   Verify Preview and Main survey Questions.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>PASSED
+'PASSED' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Splunk Log File Location: D:\SM\gitrepos\QA\QATEST\createweb\results\Automation_Results_Create20160729_151907-5c601098-bfc4-408f-9d08-3576820934bb_20160729_152028103.txt
+'Splunk' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>splunk log file exists
+'splunk' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>2016-07-29 15:20:33.203 INFO log_file - add_record_to_log: Date="07/29/16 15:20:33" User_Agent="Windows 7" Product=Create Test_Case="Verify Preview Question Reordering In Pages" Type=Regression Status=Passed Box_Host="ib-pune-pc-026" Full_Report_Link="D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_151907-4470d56c-ad85-40df-9bdb-f0c65ca94f63\History\test_bank_verifyPreviewQuestionReorderInPages20160729_151907-3095ed4e-ef63-4732-97d2-0fa8a41c03db_1.html" Environment="MT2" User_name="test_e958c7bb-a45e-4394-b137-63fe6218e4fd" Duration="77s"
+'2016-07-29' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Automation_Results_Create20160729_151907-5c601098-bfc4-408f-9d08-3576820934bb_20160729_152028103.txt-->Automation_Results_Create20160729_151907-5c601098-bfc4-408f-9d08-3576820934bb.txt
+'Automation_Results_Create20160729_151907-5c601098-bfc4-408f-9d08-3576820934bb_20160729_152028103.txt--' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>------ generated xml file: D:\SM\gitrepos\QA\QATEST\createweb\junit.xml -------
+'------' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>========================== 1 passed in 90.16 seconds ==========================
+'1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>py.test -v -s --domain=MT1 automation\question_bank_library\test_bank_verifyPreviewQuestionReorderInPages.py
+D:\SM\gitrepos\QA\QATEST\createweb was unexpected at this time.
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>============================= test session starts =============================
+'test' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>platform win32 -- Python 2.7.11, pytest-2.8.5, py-1.4.31, pluggy-0.3.1 -- D:\SM\gitrepos\QA\QATEST\Scripts\python.exe
+'platform' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>cachedir: .cache
+'cachedir:' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>rootdir: D:\SM\gitrepos\QA\QATEST\createweb, inifile: setup.cfg
+'rootdir:' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>plugins: cov-1.8.1, xdist-1.14, smsdk.qa-0.0.34
+'plugins:' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>collected 1 items
+'collected' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>automation/question_bank_library/test_bank_verifyPreviewQuestionReorderInPages.py::test_bank_verify_preview_question_reorder_in_pages
+'automation' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Report .html file location:
+'Report' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_162410-712bf50e-b88b-46da-9107-9d96ca997289\History\test_bank_verifyPreviewQuestionReorderInPages20160729_162410-2d5b6ccc-0753-401b-a6fe-3168d2cfd289_1.html
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>D:\SM\gitrepos\QA\QATEST\lib\site-packages\requests\packages\urllib3\connectionpool.py:769: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly
+The filename, directory name, or volume label syntax is incorrect.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>advised. See: https://urllib3.readthedocs.org/en/latest/security.html
+'advised.' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>  InsecureRequestWarning)
+'InsecureRequestWarning)' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>------ generated xml file: D:\SM\gitrepos\QA\QATEST\createweb\junit.xml -------
+'------' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! KeyboardInterrupt !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+'!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>D:\SM\gitrepos\QA\QATEST\lib\site-packages\retrying.py:220: KeyboardInterrupt
+The filename, directory name, or volume label syntax is incorrect.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>======================== no tests ran in 98.13 seconds ========================
+'no' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>py.test -v -s automation\question_bank_library\test_bank_verifyPreviewQuestionReorderInPages.py
+D:\SM\gitrepos\QA\QATEST\createweb was unexpected at this time.
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>============================= test session starts =============================
+'test' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>platform win32 -- Python 2.7.11, pytest-2.8.5, py-1.4.31, pluggy-0.3.1 -- D:\SM\gitrepos\QA\QATEST\Scripts\python.exe
+'platform' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>cachedir: .cache
+'cachedir:' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>rootdir: D:\SM\gitrepos\QA\QATEST\createweb, inifile: setup.cfg
+'rootdir:' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>plugins: cov-1.8.1, xdist-1.14, smsdk.qa-0.0.34
+'plugins:' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>collected 1 items
+'collected' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>automation/question_bank_library/test_bank_verifyPreviewQuestionReorderInPages.py::test_bank_verify_preview_question_reorder_in_pages
+'automation' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Report .html file location:
+'Report' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_162640-5dd13e5e-41d2-4c4c-bce1-1483da96aa67\History\test_bank_verifyPreviewQuestionReorderInPages20160729_162640-fc37d52f-463f-468f-9e12-29c7bf4e2f74_1.html
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>D:\SM\gitrepos\QA\QATEST\lib\site-packages\requests\packages\urllib3\connectionpool.py:769: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly
+The filename, directory name, or volume label syntax is incorrect.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>advised. See: https://urllib3.readthedocs.org/en/latest/security.html
+'advised.' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>  InsecureRequestWarning)
+'InsecureRequestWarning)' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify new page is added or not
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   check to make sure that new page is added in Live preview
+'check' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify open AllCategories Category
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   Clicks on AllCategories and makes sure that it opens with AllCategories as hero button
+'Clicks' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Exception message: Message: ElementSpec.find_elements(): Can not find elements!  By_Key: <xpath>;  By_Value: <//div[contains(@id,'qbl-preview-list')]//div[1]//ul/li[contains(@id, 'qbl-preview-card-qb-question-')]>
+The syntax of the command is incorrect.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify Page Question Count Before Reordering
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   Verify Page Question Count Before Reordering between page 1 and 2.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Exception message: Message: ElementSpec.find_elements(): Can not find elements!  By_Key: <xpath>;  By_Value: <//div[contains(@id,'qbl-preview-list')]//div[1]//ul/li[contains(@id, 'qbl-preview-card-qb-question-')]>
+The syntax of the command is incorrect.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>FAILED
+'FAILED' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Splunk Log File Location: D:\SM\gitrepos\QA\QATEST\createweb\results\Automation_Results_Create20160729_162640-361bbf91-5993-42b2-937d-ecaf38da5c0f_20160729_162826875.txt
+'Splunk' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>splunk log file exists
+'splunk' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>2016-07-29 16:28:32.82 INFO log_file - add_record_to_log: Date="07/29/16 16:28:32" User_Agent="Windows 7" Product=Create Test_Case="Verify Preview Question Reordering In Pages" Type=Regression Status=Failed Box_Host="ib-pune-pc-026" Full_Report_Link="D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_162640-5dd13e5e-41d2-4c4c-bce1-1483da96aa67\History\test_bank_verifyPreviewQuestionReorderInPages20160729_162640-fc37d52f-463f-468f-9e12-29c7bf4e2f74_1.html" Environment="MT1" User_name="test_87cf42a4-b3f5-4b94-9011-f11edda29d1b" Duration="102s"
+'2016-07-29' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Automation_Results_Create20160729_162640-361bbf91-5993-42b2-937d-ecaf38da5c0f_20160729_162826875.txt-->Automation_Results_Create20160729_162640-361bbf91-5993-42b2-937d-ecaf38da5c0f.txt
+'Automation_Results_Create20160729_162640-361bbf91-5993-42b2-937d-ecaf38da5c0f_20160729_162826875.txt--' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>================================== FAILURES ===================================
+'FAILURES' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>_____________ test_bank_verify_preview_question_reorder_in_pages ______________
+'_____________' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>automation\question_bank_library\test_bank_verifyPreviewQuestionReorderInPages.py:164: in test_bank_verify_preview_question_reorder_in_pages
+The system cannot find the path specified.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>    assert False, traceback.format_exc()
+'assert' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>E   AssertionError: Traceback (most recent call last):
+'E' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>E       File "D:\SM\gitrepos\QA\QATEST\createweb\automation\question_bank_library\test_bank_verifyPreviewQuestionReorderInPages.py", line 104, in test_bank_verify_preview_question_reorder_in_pages
+'E' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>E         ex1 = mySurvey.myQBank.verify_preview_page_question_count(1, 2)
+'E' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>E       File "d:\sm\gitrepos\qa\qatest\smsdk.qafw\smsdk\qafw\create\question_bank_library.py", line 972, in verify_preview_page_question_count
+'E' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>E         if len(weCount) == int(totalQuestions):
+'E' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>E     TypeError: object of type 'NoneType' has no len()
+'E' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>E
+'E' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>E   assert False
+'E' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>------ generated xml file: D:\SM\gitrepos\QA\QATEST\createweb\junit.xml -------
+'------' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>=========================== short test summary info ===========================
+'short' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>FAIL automation/question_bank_library/test_bank_verifyPreviewQuestionReorderInPages.py::test_bank_verify_preview_question_reorder_in_pages
+'FAIL' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>========================= 1 failed in 116.23 seconds ==========================
+'1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>py.test -v -s --domain=MT2 automation\question_bank_library\test_bank_verifyPreviewQuestionReorderInPages.py
+D:\SM\gitrepos\QA\QATEST\createweb was unexpected at this time.
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>============================= test session starts =============================
+'test' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>platform win32 -- Python 2.7.11, pytest-2.8.5, py-1.4.31, pluggy-0.3.1 -- D:\SM\gitrepos\QA\QATEST\Scripts\python.exe
+'platform' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>cachedir: .cache
+'cachedir:' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>rootdir: D:\SM\gitrepos\QA\QATEST\createweb, inifile: setup.cfg
+'rootdir:' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>plugins: cov-1.8.1, xdist-1.14, smsdk.qa-0.0.34
+'plugins:' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>collected 1 items
+'collected' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>automation/question_bank_library/test_bank_verifyPreviewQuestionReorderInPages.py::test_bank_verify_preview_question_reorder_in_pages
+'automation' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Report .html file location:
+'Report' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_163638-ba1126e2-ac59-4c56-b143-50bf078c795d\History\test_bank_verifyPreviewQuestionReorderInPages20160729_163638-d863e5ba-1068-4fc1-9310-7084ee00adf3_1.html
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>D:\SM\gitrepos\QA\QATEST\lib\site-packages\requests\packages\urllib3\connectionpool.py:769: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly
+The filename, directory name, or volume label syntax is incorrect.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>advised. See: https://urllib3.readthedocs.org/en/latest/security.html
+'advised.' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>  InsecureRequestWarning)
+'InsecureRequestWarning)' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify new page is added or not
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   check to make sure that new page is added in Live preview
+'check' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify open AllCategories Category
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   Clicks on AllCategories and makes sure that it opens with AllCategories as hero button
+'Clicks' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Exception message: Message: ElementSpec.find_elements(): Can not find elements!  By_Key: <xpath>;  By_Value: <//div[contains(@id,'qbl-preview-list')]//div[1]//ul/li[contains(@id, 'qbl-preview-card-qb-question-')]>
+The syntax of the command is incorrect.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify Page Question Count Before Reordering
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   Verify Page Question Count Before Reordering between page 1 and 2.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify Page Question Count After Reordering
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   Verify Page Question Count After Reordering between page 1 and 2.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify Question Added Into Main Survey
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   Verify that preview question gets added into main survey or not by clicking on Add button present at preview window
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify Preview and Main survey questions
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   Verify Preview and Main survey Questions.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>PASSED
+'PASSED' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Splunk Log File Location: D:\SM\gitrepos\QA\QATEST\createweb\results\Automation_Results_Create20160729_163638-d90bc265-7e89-42d2-a6f8-5ddd6bd7c0a2_20160729_163758526.txt
+'Splunk' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>splunk log file exists
+'splunk' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>2016-07-29 16:38:04.299 INFO log_file - add_record_to_log: Date="07/29/16 16:38:04" User_Agent="Windows 7" Product=Create Test_Case="Verify Preview Question Reordering In Pages" Type=Regression Status=Passed Box_Host="ib-pune-pc-026" Full_Report_Link="D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_163638-ba1126e2-ac59-4c56-b143-50bf078c795d\History\test_bank_verifyPreviewQuestionReorderInPages20160729_163638-d863e5ba-1068-4fc1-9310-7084ee00adf3_1.html" Environment="MT2" User_name="test_e958c7bb-a45e-4394-b137-63fe6218e4fd" Duration="76s"
+'2016-07-29' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Automation_Results_Create20160729_163638-d90bc265-7e89-42d2-a6f8-5ddd6bd7c0a2_20160729_163758526.txt-->Automation_Results_Create20160729_163638-d90bc265-7e89-42d2-a6f8-5ddd6bd7c0a2.txt
+'Automation_Results_Create20160729_163638-d90bc265-7e89-42d2-a6f8-5ddd6bd7c0a2_20160729_163758526.txt--' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>------ generated xml file: D:\SM\gitrepos\QA\QATEST\createweb\junit.xml -------
+'------' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>========================== 1 passed in 90.96 seconds ==========================
+'1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>py.test -v -s --domain=MT2 automation\question_bank_library\test_bank_verifyPreviewQuestionReorderInPages.py
+D:\SM\gitrepos\QA\QATEST\createweb was unexpected at this time.
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>============================= test session starts =============================
+'test' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>platform win32 -- Python 2.7.11, pytest-2.8.5, py-1.4.31, pluggy-0.3.1 -- D:\SM\gitrepos\QA\QATEST\Scripts\python.exe
+'platform' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>cachedir: .cache
+'cachedir:' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>rootdir: D:\SM\gitrepos\QA\QATEST\createweb, inifile: setup.cfg
+'rootdir:' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>plugins: cov-1.8.1, xdist-1.14, smsdk.qa-0.0.34
+'plugins:' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>collected 1 items
+'collected' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>automation/question_bank_library/test_bank_verifyPreviewQuestionReorderInPages.py::test_bank_verify_preview_question_reorder_in_pages
+'automation' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Report .html file location:
+'Report' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_173617-d1171ec2-d76f-483b-8de6-0d87129142b8\History\test_bank_verifyPreviewQuestionReorderInPages20160729_173617-e1b7529f-3bff-4783-8996-36c016dd9a97_1.html
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>D:\SM\gitrepos\QA\QATEST\lib\site-packages\requests\packages\urllib3\connectionpool.py:769: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly
+The filename, directory name, or volume label syntax is incorrect.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>advised. See: https://urllib3.readthedocs.org/en/latest/security.html
+'advised.' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>  InsecureRequestWarning)
+'InsecureRequestWarning)' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify new page is added or not
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   check to make sure that new page is added in Live preview
+'check' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify open AllCategories Category
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   Clicks on AllCategories and makes sure that it opens with AllCategories as hero button
+'Clicks' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Exception message: Message: ElementSpec.find_elements(): Can not find elements!  By_Key: <xpath>;  By_Value: <//div[contains(@id,'qbl-preview-list')]//div[1]//ul/li[contains(@id, 'qbl-preview-card-qb-question-')]>
+The syntax of the command is incorrect.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify Page Question Count Before Reordering
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   Verify Page Question Count Before Reordering between page 1 and 2.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify Page Question Count After Reordering
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   Verify Page Question Count After Reordering between page 1 and 2.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify Question Added Into Main Survey
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   Verify that preview question gets added into main survey or not by clicking on Add button present at preview window
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify Preview and Main survey questions
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   Verify Preview and Main survey Questions.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>PASSED
+'PASSED' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Splunk Log File Location: D:\SM\gitrepos\QA\QATEST\createweb\results\Automation_Results_Create20160729_173617-bc502083-7a75-4f18-90d8-8bc63ffaccf3_20160729_173754985.txt
+'Splunk' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>splunk log file exists
+'splunk' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>2016-07-29 17:38:00.657 INFO log_file - add_record_to_log: Date="07/29/16 17:38:00" User_Agent="Windows 7" Product=Create Test_Case="Verify Preview Question Reordering In Pages" Type=Regression Status=Passed Box_Host="ib-pune-pc-026" Full_Report_Link="D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_173617-d1171ec2-d76f-483b-8de6-0d87129142b8\History\test_bank_verifyPreviewQuestionReorderInPages20160729_173617-e1b7529f-3bff-4783-8996-36c016dd9a97_1.html" Environment="MT2" User_name="test_e958c7bb-a45e-4394-b137-63fe6218e4fd" Duration="94s"
+'2016-07-29' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Automation_Results_Create20160729_173617-bc502083-7a75-4f18-90d8-8bc63ffaccf3_20160729_173754985.txt-->Automation_Results_Create20160729_173617-bc502083-7a75-4f18-90d8-8bc63ffaccf3.txt
+'Automation_Results_Create20160729_173617-bc502083-7a75-4f18-90d8-8bc63ffaccf3_20160729_173754985.txt--' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>------ generated xml file: D:\SM\gitrepos\QA\QATEST\createweb\junit.xml -------
+'------' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>========================= 1 passed in 107.83 seconds ==========================
+'1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>py.test -v -s --domain=MT2 automation\question_bank_library\test_bank_verifyPreviewQuestionReorderInPages.py
+D:\SM\gitrepos\QA\QATEST\createweb was unexpected at this time.
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>============================= test session starts =============================
+'test' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>platform win32 -- Python 2.7.11, pytest-2.8.5, py-1.4.31, pluggy-0.3.1 -- D:\SM\gitrepos\QA\QATEST\Scripts\python.exe
+'platform' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>cachedir: .cache
+'cachedir:' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>rootdir: D:\SM\gitrepos\QA\QATEST\createweb, inifile: setup.cfg
+'rootdir:' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>plugins: cov-1.8.1, xdist-1.14, smsdk.qa-0.0.34
+'plugins:' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>collected 1 items
+'collected' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>automation/question_bank_library/test_bank_verifyPreviewQuestionReorderInPages.py::test_bank_verify_preview_question_reorder_in_pages
+'automation' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Report .html file location:
+'Report' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_175005-f3a71fc1-5c5c-469d-8e52-060afc7ab1a9\History\test_bank_verifyPreviewQuestionReorderInPages20160729_175005-221cac26-82bd-4352-bb04-a09eac37cdbd_1.html
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>D:\SM\gitrepos\QA\QATEST\lib\site-packages\requests\packages\urllib3\connectionpool.py:769: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly
+The filename, directory name, or volume label syntax is incorrect.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>advised. See: https://urllib3.readthedocs.org/en/latest/security.html
+'advised.' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>  InsecureRequestWarning)
+'InsecureRequestWarning)' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify new page is added or not
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   check to make sure that new page is added in Live preview
+'check' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify open AllCategories Category
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   Clicks on AllCategories and makes sure that it opens with AllCategories as hero button
+'Clicks' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Exception message: Message: ElementSpec.find_elements(): Can not find elements!  By_Key: <xpath>;  By_Value: <//div[contains(@id,'qbl-preview-list')]//div[1]//ul/li[contains(@id, 'qbl-preview-card-qb-question-')]>
+The syntax of the command is incorrect.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify Page Question Count Before Reordering
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   Verify Page Question Count Before Reordering between page 1 and 2.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>FAILED
+'FAILED' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Splunk Log File Location: D:\SM\gitrepos\QA\QATEST\createweb\results\Automation_Results_Create20160729_175005-195581da-a0f6-42ca-934a-02f0f3637bd6_20160729_175129819.txt
+'Splunk' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>splunk log file exists
+'splunk' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>2016-07-29 17:51:35.716 INFO log_file - add_record_to_log: Date="07/29/16 17:51:35" User_Agent="Windows 7" Product=Create Test_Case="Verify Preview Question Reordering In Pages" Type=Regression Status=Failed Box_Host="ib-pune-pc-026" Full_Report_Link="D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_175005-f3a71fc1-5c5c-469d-8e52-060afc7ab1a9\History\test_bank_verifyPreviewQuestionReorderInPages20160729_175005-221cac26-82bd-4352-bb04-a09eac37cdbd_1.html" Environment="MT2" User_name="test_e958c7bb-a45e-4394-b137-63fe6218e4fd" Duration="81s"
+'2016-07-29' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Automation_Results_Create20160729_175005-195581da-a0f6-42ca-934a-02f0f3637bd6_20160729_175129819.txt-->Automation_Results_Create20160729_175005-195581da-a0f6-42ca-934a-02f0f3637bd6.txt
+'Automation_Results_Create20160729_175005-195581da-a0f6-42ca-934a-02f0f3637bd6_20160729_175129819.txt--' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>================================== FAILURES ===================================
+'FAILURES' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>_____________ test_bank_verify_preview_question_reorder_in_pages ______________
+'_____________' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>automation\question_bank_library\test_bank_verifyPreviewQuestionReorderInPages.py:164: in test_bank_verify_preview_question_reorder_in_pages
+The system cannot find the path specified.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>    assert False, traceback.format_exc()
+'assert' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>E   AssertionError: Traceback (most recent call last):
+'E' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>E       File "D:\SM\gitrepos\QA\QATEST\createweb\automation\question_bank_library\test_bank_verifyPreviewQuestionReorderInPages.py", line 101, in test_bank_verify_preview_question_reorder_in_pages
+'E' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>E         mySurvey.myQBank.move_question_via_drag_and_drop(i, from_page, to_page)
+'E' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>E       File "d:\sm\gitrepos\qa\qatest\smsdk.qafw\smsdk\qafw\create\question_bank_library.py", line 954, in move_question_via_drag_and_drop
+'E' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>E         print "offset = " + offset
+'E' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>E     TypeError: cannot concatenate 'str' and 'Counter' objects
+'E' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>E
+'E' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>E   assert False
+'E' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>------ generated xml file: D:\SM\gitrepos\QA\QATEST\createweb\junit.xml -------
+'------' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>=========================== short test summary info ===========================
+'short' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>FAIL automation/question_bank_library/test_bank_verifyPreviewQuestionReorderInPages.py::test_bank_verify_preview_question_reorder_in_pages
+'FAIL' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>========================== 1 failed in 94.92 seconds ==========================
+'1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>py.test -v -s --domain=MT2 automation\question_bank_library\test_bank_verifyPreviewQuestionReorderInPages.py
+D:\SM\gitrepos\QA\QATEST\createweb was unexpected at this time.
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>============================= test session starts =============================
+'test' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>platform win32 -- Python 2.7.11, pytest-2.8.5, py-1.4.31, pluggy-0.3.1 -- D:\SM\gitrepos\QA\QATEST\Scripts\python.exe
+'platform' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>cachedir: .cache
+'cachedir:' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>rootdir: D:\SM\gitrepos\QA\QATEST\createweb, inifile: setup.cfg
+'rootdir:' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>plugins: cov-1.8.1, xdist-1.14, smsdk.qa-0.0.34
+'plugins:' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>collected 1 items
+'collected' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>automation/question_bank_library/test_bank_verifyPreviewQuestionReorderInPages.py::test_bank_verify_preview_question_reorder_in_pages
+'automation' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Report .html file location:
+'Report' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_175221-ca8b2bb1-d8a2-4475-b1df-cb65c5333c1f\History\test_bank_verifyPreviewQuestionReorderInPages20160729_175221-038f6b04-aee6-449b-a449-f9f1aa839b4a_1.html
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>D:\SM\gitrepos\QA\QATEST\lib\site-packages\requests\packages\urllib3\connectionpool.py:769: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly
+The filename, directory name, or volume label syntax is incorrect.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>advised. See: https://urllib3.readthedocs.org/en/latest/security.html
+'advised.' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>  InsecureRequestWarning)
+'InsecureRequestWarning)' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify new page is added or not
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   check to make sure that new page is added in Live preview
+'check' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify open AllCategories Category
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   Clicks on AllCategories and makes sure that it opens with AllCategories as hero button
+'Clicks' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Exception message: Message: ElementSpec.find_elements(): Can not find elements!  By_Key: <xpath>;  By_Value: <//div[contains(@id,'qbl-preview-list')]//div[1]//ul/li[contains(@id, 'qbl-preview-card-qb-question-')]>
+The syntax of the command is incorrect.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify Page Question Count Before Reordering
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   Verify Page Question Count Before Reordering between page 1 and 2.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Counter({'y': -54.0})
+'Counter' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Counter({'y': -158.0})
+'Counter' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify Page Question Count After Reordering
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   Verify Page Question Count After Reordering between page 1 and 2.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify Question Added Into Main Survey
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   Verify that preview question gets added into main survey or not by clicking on Add button present at preview window
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify Preview and Main survey questions
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   Verify Preview and Main survey Questions.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>PASSED
+'PASSED' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Splunk Log File Location: D:\SM\gitrepos\QA\QATEST\createweb\results\Automation_Results_Create20160729_175221-a9e95e2e-ad28-44ae-8a8d-99fc8577023d_20160729_175343546.txt
+'Splunk' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>splunk log file exists
+'splunk' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>2016-07-29 17:53:48.933 INFO log_file - add_record_to_log: Date="07/29/16 17:53:48" User_Agent="Windows 7" Product=Create Test_Case="Verify Preview Question Reordering In Pages" Type=Regression Status=Passed Box_Host="ib-pune-pc-026" Full_Report_Link="D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_175221-ca8b2bb1-d8a2-4475-b1df-cb65c5333c1f\History\test_bank_verifyPreviewQuestionReorderInPages20160729_175221-038f6b04-aee6-449b-a449-f9f1aa839b4a_1.html" Environment="MT2" User_name="test_e958c7bb-a45e-4394-b137-63fe6218e4fd" Duration="78s"
+'2016-07-29' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Automation_Results_Create20160729_175221-a9e95e2e-ad28-44ae-8a8d-99fc8577023d_20160729_175343546.txt-->Automation_Results_Create20160729_175221-a9e95e2e-ad28-44ae-8a8d-99fc8577023d.txt
+'Automation_Results_Create20160729_175221-a9e95e2e-ad28-44ae-8a8d-99fc8577023d_20160729_175343546.txt--' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>------ generated xml file: D:\SM\gitrepos\QA\QATEST\createweb\junit.xml -------
+'------' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>========================== 1 passed in 91.55 seconds ==========================
+'1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>py.test -v -s --domain=MT2 automation\question_bank_library\test_bank_customizeModifierOnQuestionCard.py
+D:\SM\gitrepos\QA\QATEST\createweb was unexpected at this time.
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>============================= test session starts =============================
+'test' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>platform win32 -- Python 2.7.11, pytest-2.8.5, py-1.4.31, pluggy-0.3.1 -- D:\SM\gitrepos\QA\QATEST\Scripts\python.exe
+'platform' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>cachedir: .cache
+'cachedir:' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>rootdir: D:\SM\gitrepos\QA\QATEST\createweb, inifile: setup.cfg
+'rootdir:' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>plugins: cov-1.8.1, xdist-1.14, smsdk.qa-0.0.34
+'plugins:' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>collected 1 items
+'collected' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>automation/question_bank_library/test_bank_customizeModifierOnQuestionCard.py::test_bank_customizeModifierOnQuestionCard
+'automation' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Report .html file location:
+'Report' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_185530-fc0fe9d4-986a-4c55-a5d2-bf31857f2910\History\test_bank_customizeModifierOnQuestionCard20160729_185530-650f3575-a915-4acc-ae2f-6aba92a59b9a_1.html
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>D:\SM\gitrepos\QA\QATEST\lib\site-packages\requests\packages\urllib3\connectionpool.py:769: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly
+The filename, directory name, or volume label syntax is incorrect.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>advised. See: https://urllib3.readthedocs.org/en/latest/security.html
+'advised.' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>  InsecureRequestWarning)
+'InsecureRequestWarning)' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify new page is added or not
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   check to make sure that new page is added in Live preview
+'check' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify open HumanResources Category
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   Clicks on HumanResources and makes sure that it opens with HumanResources as hero button
+'Clicks' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify text entry
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   check to make sure that entered question to get an autocomplete list
+'check' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify question save with modifier
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   check to mke sure that question save with modifier
+'check' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify Question in Preview Box
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   Verify Added Question is added into preview box or not.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Counter({'y': -54.0})
+'Counter' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>PASSED
+'PASSED' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Splunk Log File Location: D:\SM\gitrepos\QA\QATEST\createweb\results\Automation_Results_Create20160729_185530-3467c3f2-98a4-4bce-a399-a2de2f570992_20160729_185701844.txt
+'Splunk' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>splunk log file exists
+'splunk' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>2016-07-29 18:57:07.526 INFO log_file - add_record_to_log: Date="07/29/16 18:57:07" User_Agent="Windows 7" Product=Create Test_Case="Verify Customize Modifier on Question Card" Type=Regression Status=Passed Box_Host="ib-pune-pc-026" Full_Report_Link="D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_185530-fc0fe9d4-986a-4c55-a5d2-bf31857f2910\History\test_bank_customizeModifierOnQuestionCard20160729_185530-650f3575-a915-4acc-ae2f-6aba92a59b9a_1.html" Environment="MT2" User_name="test_e958c7bb-a45e-4394-b137-63fe6218e4fd" Duration="72s"
+'2016-07-29' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Automation_Results_Create20160729_185530-3467c3f2-98a4-4bce-a399-a2de2f570992_20160729_185701844.txt-->Automation_Results_Create20160729_185530-3467c3f2-98a4-4bce-a399-a2de2f570992.txt
+'Automation_Results_Create20160729_185530-3467c3f2-98a4-4bce-a399-a2de2f570992_20160729_185701844.txt--' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>------ generated xml file: D:\SM\gitrepos\QA\QATEST\createweb\junit.xml -------
+'------' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>========================= 1 passed in 101.46 seconds ==========================
+'1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>py.test -v -s --domain=MT2 automation\question_bank_library\test_bank_customizeModifierOnQuestionCard.py
+D:\SM\gitrepos\QA\QATEST\createweb was unexpected at this time.
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>============================= test session starts =============================
+'test' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>platform win32 -- Python 2.7.11, pytest-2.8.5, py-1.4.31, pluggy-0.3.1 -- D:\SM\gitrepos\QA\QATEST\Scripts\python.exe
+'platform' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>cachedir: .cache
+'cachedir:' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>rootdir: D:\SM\gitrepos\QA\QATEST\createweb, inifile: setup.cfg
+'rootdir:' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>plugins: cov-1.8.1, xdist-1.14, smsdk.qa-0.0.34
+'plugins:' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>collected 1 items
+'collected' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>automation/question_bank_library/test_bank_customizeModifierOnQuestionCard.py::test_bank_customizeModifierOnQuestionCard
+'automation' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Report .html file location:
+'Report' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_190105-950e5d33-949b-4594-94bf-6f7d5fd8cfda\History\test_bank_customizeModifierOnQuestionCard20160729_190105-6d322b50-3649-4343-9753-61c994de2322_1.html
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>D:\SM\gitrepos\QA\QATEST\lib\site-packages\requests\packages\urllib3\connectionpool.py:769: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly
+The filename, directory name, or volume label syntax is incorrect.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>advised. See: https://urllib3.readthedocs.org/en/latest/security.html
+'advised.' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>  InsecureRequestWarning)
+'InsecureRequestWarning)' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify new page is added or not
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   check to make sure that new page is added in Live preview
+'check' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify open HumanResources Category
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   Clicks on HumanResources and makes sure that it opens with HumanResources as hero button
+'Clicks' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify text entry
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   check to make sure that entered question to get an autocomplete list
+'check' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify question save with modifier
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   check to mke sure that question save with modifier
+'check' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify Question in Preview Box
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   Verify Added Question is added into preview box or not.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Counter({'y': -54.0})
+'Counter' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>PASSED
+'PASSED' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Splunk Log File Location: D:\SM\gitrepos\QA\QATEST\createweb\results\Automation_Results_Create20160729_190105-5bcdb162-5d99-48d8-b4e2-c147048c0fc4_20160729_190236152.txt
+'Splunk' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>splunk log file exists
+'splunk' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>2016-07-29 19:02:41.109 INFO log_file - add_record_to_log: Date="07/29/16 19:02:41" User_Agent="Windows 7" Product=Create Test_Case="Verify Customize Modifier on Question Card" Type=Regression Status=Passed Box_Host="ib-pune-pc-026" Full_Report_Link="D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_190105-950e5d33-949b-4594-94bf-6f7d5fd8cfda\History\test_bank_customizeModifierOnQuestionCard20160729_190105-6d322b50-3649-4343-9753-61c994de2322_1.html" Environment="MT2" User_name="test_e958c7bb-a45e-4394-b137-63fe6218e4fd" Duration="71s"
+'2016-07-29' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Automation_Results_Create20160729_190105-5bcdb162-5d99-48d8-b4e2-c147048c0fc4_20160729_190236152.txt-->Automation_Results_Create20160729_190105-5bcdb162-5d99-48d8-b4e2-c147048c0fc4.txt
+'Automation_Results_Create20160729_190105-5bcdb162-5d99-48d8-b4e2-c147048c0fc4_20160729_190236152.txt--' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>------ generated xml file: D:\SM\gitrepos\QA\QATEST\createweb\junit.xml -------
+'------' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>========================== 1 passed in 99.92 seconds ==========================
+'1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>py.test -v -s --domain=MT2 automation\question_bank_library\test_bank_customizeModifierOnQuestionCard.py
+D:\SM\gitrepos\QA\QATEST\createweb was unexpected at this time.
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>============================= test session starts =============================
+'test' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>platform win32 -- Python 2.7.11, pytest-2.8.5, py-1.4.31, pluggy-0.3.1 -- D:\SM\gitrepos\QA\QATEST\Scripts\python.exe
+'platform' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>cachedir: .cache
+'cachedir:' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>rootdir: D:\SM\gitrepos\QA\QATEST\createweb, inifile: setup.cfg
+'rootdir:' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>plugins: cov-1.8.1, xdist-1.14, smsdk.qa-0.0.34
+'plugins:' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>collected 1 items
+'collected' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>automation/question_bank_library/test_bank_customizeModifierOnQuestionCard.py::test_bank_customizeModifierOnQuestionCard
+'automation' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Report .html file location:
+'Report' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_190344-313b3b2e-b74d-4767-bec0-a693d9a32a71\History\test_bank_customizeModifierOnQuestionCard20160729_190344-44e9bdce-b818-48d9-bf48-25bb63e7e1a8_1.html
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>D:\SM\gitrepos\QA\QATEST\lib\site-packages\requests\packages\urllib3\connectionpool.py:769: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly
+The filename, directory name, or volume label syntax is incorrect.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>advised. See: https://urllib3.readthedocs.org/en/latest/security.html
+'advised.' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>  InsecureRequestWarning)
+'InsecureRequestWarning)' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify new page is added or not
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   check to make sure that new page is added in Live preview
+'check' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify open HumanResources Category
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   Clicks on HumanResources and makes sure that it opens with HumanResources as hero button
+'Clicks' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify text entry
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   check to make sure that entered question to get an autocomplete list
+'check' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify question save with modifier
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   check to mke sure that question save with modifier
+'check' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Verify Question in Preview Box
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>   Verify Added Question is added into preview box or not.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Counter({'y': -49.0})
+'Counter' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>PASSED
+'PASSED' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Splunk Log File Location: D:\SM\gitrepos\QA\QATEST\createweb\results\Automation_Results_Create20160729_190344-ce66671f-4cb0-4064-8b3e-741bb45b6721_20160729_190513855.txt
+'Splunk' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>splunk log file exists
+'splunk' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>2016-07-29 19:05:18.816 INFO log_file - add_record_to_log: Date="07/29/16 19:05:18" User_Agent="Windows 7" Product=Create Test_Case="Verify Customize Modifier on Question Card" Type=Regression Status=Passed Box_Host="ib-pune-pc-026" Full_Report_Link="D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_190344-313b3b2e-b74d-4767-bec0-a693d9a32a71\History\test_bank_customizeModifierOnQuestionCard20160729_190344-44e9bdce-b818-48d9-bf48-25bb63e7e1a8_1.html" Environment="MT2" User_name="test_e958c7bb-a45e-4394-b137-63fe6218e4fd" Duration="70s"
+'2016-07-29' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>Automation_Results_Create20160729_190344-ce66671f-4cb0-4064-8b3e-741bb45b6721_20160729_190513855.txt-->Automation_Results_Create20160729_190344-ce66671f-4cb0-4064-8b3e-741bb45b6721.txt
+'Automation_Results_Create20160729_190344-ce66671f-4cb0-4064-8b3e-741bb45b6721_20160729_190513855.txt--' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>------ generated xml file: D:\SM\gitrepos\QA\QATEST\createweb\junit.xml -------
+'------' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>========================== 1 passed in 98.87 seconds ==========================
+'1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>
+D:\SM\gitrepos\QA\QATEST\createweb was unexpected at this time.
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>
+D:\SM\gitrepos\QA\QATEST\smsdk.qafw>(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>

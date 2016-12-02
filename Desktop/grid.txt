@@ -1,0 +1,7 @@
+java -jar selenium-server-standalone-2.53.1.jar -role hub
+
+java -Dwebdriver.ie.driver=D:\IEDriverServer.exe -jar selenium-server-standalone-2.53.1.jar -role node -hub http://172.16.20.32:4444/grid/register -nodeconfig config.json
+
+java -Dwebdriver.internetexplorer.driver=D:\IEDriverServer.exe -jar selenium-server-standalone-2.53.1.jar -role node -hub http://172.16.20.32:4444/grid/register -port 5557
+
+java -Dwebdriver.ie.driver=D:\IEDriverServer.exe -jar selenium-server-standalone-2.53.1.jar -port 5557 -role node -hub http://172.16.20.32:4444/grid/register -browser "browserName=internet explorer,version=8,platform=WINDOWS,maxInstances=5"

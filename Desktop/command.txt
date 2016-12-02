@@ -1,0 +1,9 @@
+For Chrome:
+
+
+robot --include Stable --variable BROWSER:Chrome Test_NetApp.robot
+
+
+For Firefox:
+
+robot --include Stable --variable BROWSER:Firefox Test_NetApp.robot

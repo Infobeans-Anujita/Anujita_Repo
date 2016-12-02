@@ -1,0 +1,782 @@
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Users\Sunil\Downloads\Console2>d:
+
+D:\>dir
+ Volume in drive D has no label.
+ Volume Serial Number is 6060-3210
+
+ Directory of D:\
+
+05/24/2016  01:06 PM    <DIR>          Astha
+05/11/2016  02:33 PM    <DIR>          Profile
+11/03/2015  11:23 AM    <DIR>          Projects
+12/31/2015  12:07 PM           524,288 putty.exe
+07/26/2016  08:05 PM    <DIR>          SM
+10/21/2015  11:00 AM    <DIR>          VS 2013 Web Express
+               1 File(s)        524,288 bytes
+               5 Dir(s)  210,868,711,424 bytes free
+
+D:\>cd SM\gitrepos\QA\QATEST\
+
+D:\SM\gitrepos\QA\QATEST>dir
+ Volume in drive D has no label.
+ Volume Serial Number is 6060-3210
+
+ Directory of D:\SM\gitrepos\QA\QATEST
+
+07/28/2016  05:23 PM    <DIR>          .
+07/28/2016  05:23 PM    <DIR>          ..
+07/28/2016  07:09 PM    <DIR>          .idea
+07/25/2016  07:26 PM    <DIR>          bin
+07/28/2016  03:25 PM    <DIR>          createweb
+07/25/2016  06:22 PM    <DIR>          Include
+07/28/2016  05:35 PM               421 junit.xml
+07/25/2016  07:32 PM    <DIR>          Lib
+07/25/2016  07:32 PM                60 pip-selfcheck.json
+07/25/2016  07:26 PM    <DIR>          Reporting
+07/25/2016  07:26 PM    <DIR>          Reporting_Splunk
+07/27/2016  12:02 PM    <DIR>          ResponseWeb
+07/26/2016  08:07 PM    <DIR>          Scripts
+07/25/2016  07:50 PM    <DIR>          selenium
+07/26/2016  08:07 PM    <DIR>          smsdk.qafw
+07/25/2016  07:32 PM    <DIR>          tcl
+07/28/2016  05:29 PM    <DIR>          test_results
+               2 File(s)            481 bytes
+              15 Dir(s)  210,868,711,424 bytes free
+
+D:\SM\gitrepos\QA\QATEST>Scripts\activate
+
+(QATEST) D:\SM\gitrepos\QA\QATEST>cd createweb
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>dir
+ Volume in drive D has no label.
+ Volume Serial Number is 6060-3210
+
+ Directory of D:\SM\gitrepos\QA\QATEST\createweb
+
+07/28/2016  03:25 PM    <DIR>          .
+07/28/2016  03:25 PM    <DIR>          ..
+07/26/2016  08:12 PM    <DIR>          .cache
+07/28/2016  03:14 PM               673 .gitignore
+07/25/2016  07:39 PM             2,387 .jscsrc
+07/25/2016  07:39 PM               497 .jshintrc
+07/25/2016  07:39 PM             1,449 .scss-lint.yml
+07/28/2016  03:14 PM    <DIR>          automation
+07/25/2016  07:39 PM             6,661 CHANGES.md
+07/25/2016  07:39 PM                29 CHANGES.txt
+07/25/2016  07:39 PM    <DIR>          createweb
+07/25/2016  07:40 PM             2,289 development.ini
+07/25/2016  07:40 PM    <DIR>          etc
+07/25/2016  07:39 PM             1,484 Gruntfile.js
+07/25/2016  07:39 PM                34 immunio.ini
+07/28/2016  04:45 PM               421 junit.xml
+07/25/2016  07:39 PM               229 MANIFEST.in
+07/25/2016  07:39 PM                56 message-extraction.ini
+07/25/2016  07:39 PM             1,021 package.json
+07/25/2016  07:39 PM               338 project.yml
+07/25/2016  07:39 PM             8,333 pylint.rc
+07/25/2016  07:40 PM             8,059 pylint_automation.rc
+07/25/2016  07:40 PM               223 qa-runfail.sh
+07/25/2016  07:40 PM               220 qa-setup-qafw.sh
+07/25/2016  07:40 PM             1,318 qa-test-requirements-copy.txt
+07/28/2016  03:14 PM             1,318 qa-test-requirements.txt
+07/25/2016  07:39 PM               595 readme.md
+07/25/2016  07:39 PM               515 README.txt
+07/25/2016  07:39 PM               381 requirements.apt
+07/25/2016  07:39 PM               119 requirements.deb
+07/28/2016  04:45 PM    <DIR>          results
+07/25/2016  07:40 PM               994 setup.cfg
+07/25/2016  07:40 PM             2,408 setup.py
+07/25/2016  07:39 PM                31 startup.sh
+07/25/2016  07:39 PM               145 test-requirements.txt
+07/25/2016  07:40 PM               871 test.ini
+07/25/2016  07:39 PM    <DIR>          tests
+07/28/2016  04:43 PM    <DIR>          test_results
+07/25/2016  07:40 PM             1,709 tox.ini
+07/25/2016  07:39 PM                 6 VERSION
+07/25/2016  07:39 PM                 0 __init__.py
+07/26/2016  08:08 PM               133 __init__.pyc
+              33 File(s)         44,946 bytes
+               9 Dir(s)  210,868,711,424 bytes free
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>cd automation
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation>dir
+ Volume in drive D has no label.
+ Volume Serial Number is 6060-3210
+
+ Directory of D:\SM\gitrepos\QA\QATEST\createweb\automation
+
+07/28/2016  03:14 PM    <DIR>          .
+07/28/2016  03:14 PM    <DIR>          ..
+07/28/2016  03:14 PM    <DIR>          1PreTest
+07/26/2016  08:13 PM    <DIR>          accounts
+07/28/2016  03:14 PM    <DIR>          advanced_branching
+07/26/2016  08:13 PM    <DIR>          Advanced_Piping
+07/26/2016  08:13 PM    <DIR>          asset_library
+07/26/2016  08:13 PM    <DIR>          builder
+07/25/2016  07:39 PM             9,572 conftest.py
+07/26/2016  08:08 PM            10,294 conftest.pyc
+07/26/2016  08:13 PM    <DIR>          design
+07/26/2016  08:13 PM    <DIR>          editing_limitations
+07/26/2016  09:50 PM            18,915 junit.xml
+07/28/2016  03:14 PM    <DIR>          logic
+07/26/2016  08:13 PM    <DIR>          max_limits
+07/26/2016  08:13 PM    <DIR>          NPS
+07/26/2016  08:13 PM    <DIR>          questiontypes
+07/26/2016  08:13 PM    <DIR>          question_bank
+07/26/2016  08:13 PM    <DIR>          question_bank_library
+07/26/2016  08:13 PM    <DIR>          single_page_mode
+07/28/2016  03:14 PM    <DIR>          slider_question_type
+07/28/2016  03:23 PM    <DIR>          star_rating_question_type
+07/26/2016  08:08 PM    <DIR>          step1
+07/26/2016  08:13 PM    <DIR>          switch_question_types
+07/26/2016  08:13 PM    <DIR>          switch_question_types_v1
+07/26/2016  08:13 PM    <DIR>          tbyb
+07/25/2016  07:39 PM             3,924 test_generate_user.py
+07/26/2016  09:50 PM    <DIR>          test_results
+07/28/2016  03:14 PM    <DIR>          themes
+07/25/2016  07:39 PM                 0 __init__.py
+07/26/2016  08:08 PM               144 __init__.pyc
+07/26/2016  08:13 PM    <DIR>          __pycache__
+               6 File(s)         42,849 bytes
+              26 Dir(s)  210,868,711,424 bytes free
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation>git branch
+  CREATE-6414
+* CREATE-6414-Vishal-July-28
+  automation_v2
+  develop
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation>git checkout automation_v2
+Switched to branch 'automation_v2'
+Your branch is behind 'origin/automation_v2' by 2 commits, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation>git pull origin automation_v2
+From http://code.corp.surveymonkey.com/devmonkeys/createweb
+ * branch            automation_v2 -> FETCH_HEAD
+Updating fd35a15..ece8900
+Fast-forward
+ .../test_advPiping_comment_singlePageMode.py       | 12 ++++-----
+ .../test_advPiping_contactEmail_singlePageMode.py  |  8 +++---
+ .../test_advPiping_contactName_singlePageMode.py   |  8 +++---
+ ...vPiping_dateTimeInternational_singlePageMode.py |  8 +++---
+ .../test_advPiping_dateTime_singlePageMode.py      |  8 +++---
+ .../test_advPiping_dropdown_singlePageMode.py      |  8 +++---
+ .../test_advPiping_matrix_singlePageMode.py        |  8 +++---
+ .../test_advPiping_menuMatrix_singlePageMode.py    |  8 +++---
+ ...dvPiping_multipleChoiceSingle_singlePageMode.py |  8 +++---
+ ...test_advPiping_multipleChoice_singlePageMode.py |  8 +++---
+ ...t_advPiping_multipleTextboxes_singlePageMode.py |  8 +++---
+ .../test_advPiping_ranking_singlePageMode.py       |  8 +++---
+ ...est_advPiping_singleRowRating_singlePageMode.py |  8 +++---
+ ...est_advPiping_singleTextboxes_singlePageMode.py |  8 +++---
+ ...geSelect_questionsDisplayPageNumbersChanging.py | 29 +++++++++++-----------
+ 15 files changed, 73 insertions(+), 72 deletions(-)
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation>dir
+ Volume in drive D has no label.
+ Volume Serial Number is 6060-3210
+
+ Directory of D:\SM\gitrepos\QA\QATEST\createweb\automation
+
+07/28/2016  03:14 PM    <DIR>          .
+07/28/2016  03:14 PM    <DIR>          ..
+07/29/2016  02:34 PM    <DIR>          1PreTest
+07/26/2016  08:13 PM    <DIR>          accounts
+07/29/2016  02:34 PM    <DIR>          advanced_branching
+07/29/2016  02:34 PM    <DIR>          Advanced_Piping
+07/26/2016  08:13 PM    <DIR>          asset_library
+07/26/2016  08:13 PM    <DIR>          builder
+07/25/2016  07:39 PM             9,572 conftest.py
+07/26/2016  08:08 PM            10,294 conftest.pyc
+07/26/2016  08:13 PM    <DIR>          design
+07/26/2016  08:13 PM    <DIR>          editing_limitations
+07/26/2016  09:50 PM            18,915 junit.xml
+07/29/2016  02:34 PM    <DIR>          logic
+07/26/2016  08:13 PM    <DIR>          max_limits
+07/26/2016  08:13 PM    <DIR>          NPS
+07/26/2016  08:13 PM    <DIR>          questiontypes
+07/26/2016  08:13 PM    <DIR>          question_bank
+07/26/2016  08:13 PM    <DIR>          question_bank_library
+07/26/2016  08:13 PM    <DIR>          single_page_mode
+07/29/2016  02:34 PM    <DIR>          slider_question_type
+07/29/2016  02:34 PM    <DIR>          star_rating_question_type
+07/26/2016  08:08 PM    <DIR>          step1
+07/26/2016  08:13 PM    <DIR>          switch_question_types
+07/26/2016  08:13 PM    <DIR>          switch_question_types_v1
+07/26/2016  08:13 PM    <DIR>          tbyb
+07/25/2016  07:39 PM             3,924 test_generate_user.py
+07/26/2016  09:50 PM    <DIR>          test_results
+07/29/2016  02:34 PM    <DIR>          themes
+07/25/2016  07:39 PM                 0 __init__.py
+07/26/2016  08:08 PM               144 __init__.pyc
+07/26/2016  08:13 PM    <DIR>          __pycache__
+               6 File(s)         42,849 bytes
+              26 Dir(s)  210,868,047,872 bytes free
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation>cd star_rating_question_type
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation\star_rating_question_type>dir
+ Volume in drive D has no label.
+ Volume Serial Number is 6060-3210
+
+ Directory of D:\SM\gitrepos\QA\QATEST\createweb\automation\star_rating_question_type
+
+07/29/2016  02:34 PM    <DIR>          .
+07/29/2016  02:34 PM    <DIR>          ..
+07/28/2016  03:23 PM               170 __init__.pyc
+07/28/2016  03:23 PM    <DIR>          __pycache__
+               1 File(s)            170 bytes
+               3 Dir(s)  210,868,047,872 bytes free
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation\star_rating_question_type>cd ..
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation>dir
+ Volume in drive D has no label.
+ Volume Serial Number is 6060-3210
+
+ Directory of D:\SM\gitrepos\QA\QATEST\createweb\automation
+
+07/28/2016  03:14 PM    <DIR>          .
+07/28/2016  03:14 PM    <DIR>          ..
+07/29/2016  02:34 PM    <DIR>          1PreTest
+07/26/2016  08:13 PM    <DIR>          accounts
+07/29/2016  02:34 PM    <DIR>          advanced_branching
+07/29/2016  02:34 PM    <DIR>          Advanced_Piping
+07/26/2016  08:13 PM    <DIR>          asset_library
+07/26/2016  08:13 PM    <DIR>          builder
+07/25/2016  07:39 PM             9,572 conftest.py
+07/26/2016  08:08 PM            10,294 conftest.pyc
+07/26/2016  08:13 PM    <DIR>          design
+07/26/2016  08:13 PM    <DIR>          editing_limitations
+07/26/2016  09:50 PM            18,915 junit.xml
+07/29/2016  02:34 PM    <DIR>          logic
+07/26/2016  08:13 PM    <DIR>          max_limits
+07/26/2016  08:13 PM    <DIR>          NPS
+07/26/2016  08:13 PM    <DIR>          questiontypes
+07/26/2016  08:13 PM    <DIR>          question_bank
+07/26/2016  08:13 PM    <DIR>          question_bank_library
+07/26/2016  08:13 PM    <DIR>          single_page_mode
+07/29/2016  02:34 PM    <DIR>          slider_question_type
+07/29/2016  02:34 PM    <DIR>          star_rating_question_type
+07/26/2016  08:08 PM    <DIR>          step1
+07/26/2016  08:13 PM    <DIR>          switch_question_types
+07/26/2016  08:13 PM    <DIR>          switch_question_types_v1
+07/26/2016  08:13 PM    <DIR>          tbyb
+07/25/2016  07:39 PM             3,924 test_generate_user.py
+07/26/2016  09:50 PM    <DIR>          test_results
+07/29/2016  02:34 PM    <DIR>          themes
+07/25/2016  07:39 PM                 0 __init__.py
+07/26/2016  08:08 PM               144 __init__.pyc
+07/26/2016  08:13 PM    <DIR>          __pycache__
+               6 File(s)         42,849 bytes
+              26 Dir(s)  210,868,047,872 bytes free
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation>cd question_bank_library
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation\question_bank_library>dir
+ Volume in drive D has no label.
+ Volume Serial Number is 6060-3210
+
+ Directory of D:\SM\gitrepos\QA\QATEST\createweb\automation\question_bank_library
+
+07/26/2016  08:13 PM    <DIR>          .
+07/26/2016  08:13 PM    <DIR>          ..
+07/25/2016  07:39 PM             5,468 test_bank_addAllQuestionFromTemplateView.py
+07/25/2016  07:39 PM             9,092 test_bank_AddQuestionToSurveyFromCard.py
+07/25/2016  07:39 PM             5,413 test_bank_addRemoveAllTagFilter.py
+07/25/2016  07:39 PM             4,949 test_bank_customizeModifierOnQuestionCard.py
+07/25/2016  07:39 PM             6,173 test_bank_modalLayoutOnDiffResScreen.py
+07/25/2016  07:39 PM             6,222 test_bank_removeAllQuestionFromTemplateView.py
+07/25/2016  07:39 PM             7,266 test_bank_verifyAddNPSQuestion.py
+07/25/2016  07:39 PM             7,492 test_bank_verifyAddQuestionLimit.py
+07/25/2016  07:39 PM             4,165 test_bank_verifyAddSameQuestionMultipleTimes.py
+07/25/2016  07:39 PM             4,741 test_bank_verifyCategories.py
+07/25/2016  07:39 PM             4,877 test_bank_verifyCategoriesInSpanish.py
+07/25/2016  07:39 PM             4,563 test_bank_verifyFileterWithBenchmarkQuestion.py
+07/25/2016  07:39 PM             7,098 test_bank_verifyModalAddQuestionCheck.py
+07/25/2016  07:39 PM            10,024 test_bank_verifyModalRemoveQuestionCheck.py
+07/25/2016  07:39 PM             7,659 test_bank_verifyPreviewQuestionReorderInPages.py
+07/25/2016  07:39 PM             7,717 test_bank_verifyPreviewWarningBasicUserWithCollector.py
+07/25/2016  07:39 PM             7,428 test_bank_verifyPreviewWarningBasicUserWithoutCollector.py
+07/25/2016  07:39 PM            12,538 test_bank_verifyPreviouslyAddedQuestion.py
+07/25/2016  07:39 PM             8,361 test_bank_verifyProfileModifierPopulate.py
+07/25/2016  07:39 PM             3,770 test_bank_verifySearchCategoryAutocomplete.py
+07/25/2016  07:39 PM             4,384 test_bank_verifySearchKeywordInModal.py
+07/25/2016  07:39 PM             5,710 test_bank_verifySelectQuestionFromAccordianAutocomplete.py
+07/25/2016  07:39 PM             4,661 test_bank_verifyTemplatesAvailableInPortuguese.py
+07/26/2016  08:13 PM    <DIR>          __pycache__
+              23 File(s)        149,771 bytes
+               3 Dir(s)  210,868,047,872 bytes free
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation\question_bank_library>git branch
+  CREATE-6414
+  CREATE-6414-Vishal-July-28
+* automation_v2
+  develop
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation\question_bank_library>git checkout -b automation_v2_july_29
+Switched to a new branch 'automation_v2_july_29'
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation\question_bank_library>dir
+ Volume in drive D has no label.
+ Volume Serial Number is 6060-3210
+
+ Directory of D:\SM\gitrepos\QA\QATEST\createweb\automation\question_bank_library
+
+07/26/2016  08:13 PM    <DIR>          .
+07/26/2016  08:13 PM    <DIR>          ..
+07/25/2016  07:39 PM             5,468 test_bank_addAllQuestionFromTemplateView.py
+07/25/2016  07:39 PM             9,092 test_bank_AddQuestionToSurveyFromCard.py
+07/25/2016  07:39 PM             5,413 test_bank_addRemoveAllTagFilter.py
+07/25/2016  07:39 PM             4,949 test_bank_customizeModifierOnQuestionCard.py
+07/25/2016  07:39 PM             6,173 test_bank_modalLayoutOnDiffResScreen.py
+07/25/2016  07:39 PM             6,222 test_bank_removeAllQuestionFromTemplateView.py
+07/25/2016  07:39 PM             7,266 test_bank_verifyAddNPSQuestion.py
+07/25/2016  07:39 PM             7,492 test_bank_verifyAddQuestionLimit.py
+07/25/2016  07:39 PM             4,165 test_bank_verifyAddSameQuestionMultipleTimes.py
+07/25/2016  07:39 PM             4,741 test_bank_verifyCategories.py
+07/25/2016  07:39 PM             4,877 test_bank_verifyCategoriesInSpanish.py
+07/25/2016  07:39 PM             4,563 test_bank_verifyFileterWithBenchmarkQuestion.py
+07/25/2016  07:39 PM             7,098 test_bank_verifyModalAddQuestionCheck.py
+07/25/2016  07:39 PM            10,024 test_bank_verifyModalRemoveQuestionCheck.py
+07/25/2016  07:39 PM             7,659 test_bank_verifyPreviewQuestionReorderInPages.py
+07/25/2016  07:39 PM             7,717 test_bank_verifyPreviewWarningBasicUserWithCollector.py
+07/25/2016  07:39 PM             7,428 test_bank_verifyPreviewWarningBasicUserWithoutCollector.py
+07/25/2016  07:39 PM            12,538 test_bank_verifyPreviouslyAddedQuestion.py
+07/25/2016  07:39 PM             8,361 test_bank_verifyProfileModifierPopulate.py
+07/25/2016  07:39 PM             3,770 test_bank_verifySearchCategoryAutocomplete.py
+07/25/2016  07:39 PM             4,384 test_bank_verifySearchKeywordInModal.py
+07/25/2016  07:39 PM             5,710 test_bank_verifySelectQuestionFromAccordianAutocomplete.py
+07/25/2016  07:39 PM             4,661 test_bank_verifyTemplatesAvailableInPortuguese.py
+07/26/2016  08:13 PM    <DIR>          __pycache__
+              23 File(s)        149,771 bytes
+               3 Dir(s)  210,868,056,064 bytes free
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation\question_bank_library>py.test test_bank_verifyPreviewQuestionReorderInPages.py
+============================= test session starts =============================
+platform win32 -- Python 2.7.11, pytest-2.8.5, py-1.4.31, pluggy-0.3.1 -- D:\SM\gitrepos\QA\QATEST\Scripts\python.exe
+cachedir: ..\..\.cache
+rootdir: D:\SM\gitrepos\QA\QATEST\createweb, inifile: setup.cfg
+plugins: cov-1.8.1, xdist-1.14, smsdk.qa-0.0.34
+collected 1 items
+
+test_bank_verifyPreviewQuestionReorderInPages.py::test_bank_verify_preview_question_reorder_in_pages
+Report .html file location:
+D:\SM\gitrepos\QA\QATEST\createweb\automation\question_bank_library\test_results\20160729_144701-08daddd8-5385-434a-8265-a5ccbca6b9de\History\test_bank_verifyPreviewQuestionReorderInPages20160729_144701-2c46f390-0cd1-4214-89e7-a31c70729b70_1.html
+D:\SM\gitrepos\QA\QATEST\lib\site-packages\requests\packages\urllib3\connectionpool.py:769: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly
+advised. See: https://urllib3.readthedocs.org/en/latest/security.html
+  InsecureRequestWarning)
+Verify new page is added or not
+   check to make sure that new page is added in Live preview
+Verify open AllCategories Category
+   Clicks on AllCategories and makes sure that it opens with AllCategories as hero button
+Exception message: Message: ElementSpec.find_elements(): Can not find elements!  By_Key: <xpath>;  By_Value: <//div[contains(@id,'qbl-preview-list')]//div[1]//ul/li[contains(@id, 'qbl-preview-card-qb-question-')]>
+
+Verify Page Question Count Before Reordering
+   Verify Page Question Count Before Reordering between page 1 and 2.
+Exception message: Message: ElementSpec.find_elements(): Can not find elements!  By_Key: <xpath>;  By_Value: <//div[contains(@id,'qbl-preview-list')]//div[1]//ul/li[contains(@id, 'qbl-preview-card-qb-question-')]>
+
+FAILED2016-07-29 14:48:28.739 ERROR reporting - _assign_splunk_log_file: Splunk reports location base dir <results> doesn't exist.
+None
+
+
+================================== FAILURES ===================================
+_____________ test_bank_verify_preview_question_reorder_in_pages ______________
+test_bank_verifyPreviewQuestionReorderInPages.py:164: in test_bank_verify_preview_question_reorder_in_pages
+    assert False, traceback.format_exc()
+E   AssertionError: Traceback (most recent call last):
+E       File "D:\SM\gitrepos\QA\QATEST\createweb\automation\question_bank_library\test_bank_verifyPreviewQuestionReorderInPages.py", line 104, in test_bank_verify_preview_question_reorder_in_pages
+E         ex1 = mySurvey.myQBank.verify_preview_page_question_count(1, 2)
+E       File "d:\sm\gitrepos\qa\qatest\smsdk.qafw\smsdk\qafw\create\question_bank_library.py", line 972, in verify_preview_page_question_count
+E         if len(weCount) == int(totalQuestions):
+E     TypeError: object of type 'NoneType' has no len()
+E
+E   assert False
+ generated xml file: D:\SM\gitrepos\QA\QATEST\createweb\automation\question_bank_library\junit.xml
+=========================== short test summary info ===========================
+FAIL test_bank_verifyPreviewQuestionReorderInPages.py::test_bank_verify_preview_question_reorder_in_pages
+========================== 1 failed in 87.67 seconds ==========================
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb\automation\question_bank_library>cd ../../
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>py.test -v -s --domain=MT2 automation\question_bank_library\test_bank_verifyPreviewQuestionReorderInPages.py
+============================= test session starts =============================
+platform win32 -- Python 2.7.11, pytest-2.8.5, py-1.4.31, pluggy-0.3.1 -- D:\SM\gitrepos\QA\QATEST\Scripts\python.exe
+cachedir: .cache
+rootdir: D:\SM\gitrepos\QA\QATEST\createweb, inifile: setup.cfg
+plugins: cov-1.8.1, xdist-1.14, smsdk.qa-0.0.34
+collected 1 items
+
+automation/question_bank_library/test_bank_verifyPreviewQuestionReorderInPages.py::test_bank_verify_preview_question_reorder_in_pages
+Report .html file location:
+D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_151907-4470d56c-ad85-40df-9bdb-f0c65ca94f63\History\test_bank_verifyPreviewQuestionReorderInPages20160729_151907-3095ed4e-ef63-4732-97d2-0fa8a41c03db_1.html
+D:\SM\gitrepos\QA\QATEST\lib\site-packages\requests\packages\urllib3\connectionpool.py:769: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly
+advised. See: https://urllib3.readthedocs.org/en/latest/security.html
+  InsecureRequestWarning)
+Verify new page is added or not
+   check to make sure that new page is added in Live preview
+Verify open AllCategories Category
+   Clicks on AllCategories and makes sure that it opens with AllCategories as hero button
+Exception message: Message: ElementSpec.find_elements(): Can not find elements!  By_Key: <xpath>;  By_Value: <//div[contains(@id,'qbl-preview-list')]//div[1]//ul/li[contains(@id, 'qbl-preview-card-qb-question-')]>
+
+Verify Page Question Count Before Reordering
+   Verify Page Question Count Before Reordering between page 1 and 2.
+Verify Page Question Count After Reordering
+   Verify Page Question Count After Reordering between page 1 and 2.
+Verify Question Added Into Main Survey
+   Verify that preview question gets added into main survey or not by clicking on Add button present at preview window
+Verify Preview and Main survey questions
+   Verify Preview and Main survey Questions.
+PASSED
+Splunk Log File Location: D:\SM\gitrepos\QA\QATEST\createweb\results\Automation_Results_Create20160729_151907-5c601098-bfc4-408f-9d08-3576820934bb_20160729_152028103.txt
+splunk log file exists
+2016-07-29 15:20:33.203 INFO log_file - add_record_to_log: Date="07/29/16 15:20:33" User_Agent="Windows 7" Product=Create Test_Case="Verify Preview Question Reordering In Pages" Type=Regression Status=Passed Box_Host="ib-pune-pc-026" Full_Report_Link="D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_151907-4470d56c-ad85-40df-9bdb-f0c65ca94f63\History\test_bank_verifyPreviewQuestionReorderInPages20160729_151907-3095ed4e-ef63-4732-97d2-0fa8a41c03db_1.html" Environment="MT2" User_name="test_e958c7bb-a45e-4394-b137-63fe6218e4fd" Duration="77s"
+Automation_Results_Create20160729_151907-5c601098-bfc4-408f-9d08-3576820934bb_20160729_152028103.txt-->Automation_Results_Create20160729_151907-5c601098-bfc4-408f-9d08-3576820934bb.txt
+
+
+------ generated xml file: D:\SM\gitrepos\QA\QATEST\createweb\junit.xml -------
+========================== 1 passed in 90.16 seconds ==========================
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>py.test -v -s --domain=MT1 automation\question_bank_library\test_bank_verifyPreviewQuestionReorderInPages.py
+============================= test session starts =============================
+platform win32 -- Python 2.7.11, pytest-2.8.5, py-1.4.31, pluggy-0.3.1 -- D:\SM\gitrepos\QA\QATEST\Scripts\python.exe
+cachedir: .cache
+rootdir: D:\SM\gitrepos\QA\QATEST\createweb, inifile: setup.cfg
+plugins: cov-1.8.1, xdist-1.14, smsdk.qa-0.0.34
+collected 1 items
+
+automation/question_bank_library/test_bank_verifyPreviewQuestionReorderInPages.py::test_bank_verify_preview_question_reorder_in_pages
+Report .html file location:
+D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_162410-712bf50e-b88b-46da-9107-9d96ca997289\History\test_bank_verifyPreviewQuestionReorderInPages20160729_162410-2d5b6ccc-0753-401b-a6fe-3168d2cfd289_1.html
+D:\SM\gitrepos\QA\QATEST\lib\site-packages\requests\packages\urllib3\connectionpool.py:769: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly
+advised. See: https://urllib3.readthedocs.org/en/latest/security.html
+  InsecureRequestWarning)
+
+
+------ generated xml file: D:\SM\gitrepos\QA\QATEST\createweb\junit.xml -------
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! KeyboardInterrupt !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+D:\SM\gitrepos\QA\QATEST\lib\site-packages\retrying.py:220: KeyboardInterrupt
+======================== no tests ran in 98.13 seconds ========================
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>py.test -v -s automation\question_bank_library\test_bank_verifyPreviewQuestionReorderInPages.py
+============================= test session starts =============================
+platform win32 -- Python 2.7.11, pytest-2.8.5, py-1.4.31, pluggy-0.3.1 -- D:\SM\gitrepos\QA\QATEST\Scripts\python.exe
+cachedir: .cache
+rootdir: D:\SM\gitrepos\QA\QATEST\createweb, inifile: setup.cfg
+plugins: cov-1.8.1, xdist-1.14, smsdk.qa-0.0.34
+collected 1 items
+
+automation/question_bank_library/test_bank_verifyPreviewQuestionReorderInPages.py::test_bank_verify_preview_question_reorder_in_pages
+Report .html file location:
+D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_162640-5dd13e5e-41d2-4c4c-bce1-1483da96aa67\History\test_bank_verifyPreviewQuestionReorderInPages20160729_162640-fc37d52f-463f-468f-9e12-29c7bf4e2f74_1.html
+D:\SM\gitrepos\QA\QATEST\lib\site-packages\requests\packages\urllib3\connectionpool.py:769: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly
+advised. See: https://urllib3.readthedocs.org/en/latest/security.html
+  InsecureRequestWarning)
+Verify new page is added or not
+   check to make sure that new page is added in Live preview
+Verify open AllCategories Category
+   Clicks on AllCategories and makes sure that it opens with AllCategories as hero button
+Exception message: Message: ElementSpec.find_elements(): Can not find elements!  By_Key: <xpath>;  By_Value: <//div[contains(@id,'qbl-preview-list')]//div[1]//ul/li[contains(@id, 'qbl-preview-card-qb-question-')]>
+
+Verify Page Question Count Before Reordering
+   Verify Page Question Count Before Reordering between page 1 and 2.
+Exception message: Message: ElementSpec.find_elements(): Can not find elements!  By_Key: <xpath>;  By_Value: <//div[contains(@id,'qbl-preview-list')]//div[1]//ul/li[contains(@id, 'qbl-preview-card-qb-question-')]>
+
+FAILED
+Splunk Log File Location: D:\SM\gitrepos\QA\QATEST\createweb\results\Automation_Results_Create20160729_162640-361bbf91-5993-42b2-937d-ecaf38da5c0f_20160729_162826875.txt
+splunk log file exists
+2016-07-29 16:28:32.82 INFO log_file - add_record_to_log: Date="07/29/16 16:28:32" User_Agent="Windows 7" Product=Create Test_Case="Verify Preview Question Reordering In Pages" Type=Regression Status=Failed Box_Host="ib-pune-pc-026" Full_Report_Link="D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_162640-5dd13e5e-41d2-4c4c-bce1-1483da96aa67\History\test_bank_verifyPreviewQuestionReorderInPages20160729_162640-fc37d52f-463f-468f-9e12-29c7bf4e2f74_1.html" Environment="MT1" User_name="test_87cf42a4-b3f5-4b94-9011-f11edda29d1b" Duration="102s"
+Automation_Results_Create20160729_162640-361bbf91-5993-42b2-937d-ecaf38da5c0f_20160729_162826875.txt-->Automation_Results_Create20160729_162640-361bbf91-5993-42b2-937d-ecaf38da5c0f.txt
+
+
+================================== FAILURES ===================================
+_____________ test_bank_verify_preview_question_reorder_in_pages ______________
+automation\question_bank_library\test_bank_verifyPreviewQuestionReorderInPages.py:164: in test_bank_verify_preview_question_reorder_in_pages
+    assert False, traceback.format_exc()
+E   AssertionError: Traceback (most recent call last):
+E       File "D:\SM\gitrepos\QA\QATEST\createweb\automation\question_bank_library\test_bank_verifyPreviewQuestionReorderInPages.py", line 104, in test_bank_verify_preview_question_reorder_in_pages
+E         ex1 = mySurvey.myQBank.verify_preview_page_question_count(1, 2)
+E       File "d:\sm\gitrepos\qa\qatest\smsdk.qafw\smsdk\qafw\create\question_bank_library.py", line 972, in verify_preview_page_question_count
+E         if len(weCount) == int(totalQuestions):
+E     TypeError: object of type 'NoneType' has no len()
+E
+E   assert False
+------ generated xml file: D:\SM\gitrepos\QA\QATEST\createweb\junit.xml -------
+=========================== short test summary info ===========================
+FAIL automation/question_bank_library/test_bank_verifyPreviewQuestionReorderInPages.py::test_bank_verify_preview_question_reorder_in_pages
+========================= 1 failed in 116.23 seconds ==========================
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>py.test -v -s --domain=MT2 automation\question_bank_library\test_bank_verifyPreviewQuestionReorderInPages.py
+============================= test session starts =============================
+platform win32 -- Python 2.7.11, pytest-2.8.5, py-1.4.31, pluggy-0.3.1 -- D:\SM\gitrepos\QA\QATEST\Scripts\python.exe
+cachedir: .cache
+rootdir: D:\SM\gitrepos\QA\QATEST\createweb, inifile: setup.cfg
+plugins: cov-1.8.1, xdist-1.14, smsdk.qa-0.0.34
+collected 1 items
+
+automation/question_bank_library/test_bank_verifyPreviewQuestionReorderInPages.py::test_bank_verify_preview_question_reorder_in_pages
+Report .html file location:
+D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_163638-ba1126e2-ac59-4c56-b143-50bf078c795d\History\test_bank_verifyPreviewQuestionReorderInPages20160729_163638-d863e5ba-1068-4fc1-9310-7084ee00adf3_1.html
+D:\SM\gitrepos\QA\QATEST\lib\site-packages\requests\packages\urllib3\connectionpool.py:769: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly
+advised. See: https://urllib3.readthedocs.org/en/latest/security.html
+  InsecureRequestWarning)
+Verify new page is added or not
+   check to make sure that new page is added in Live preview
+Verify open AllCategories Category
+   Clicks on AllCategories and makes sure that it opens with AllCategories as hero button
+Exception message: Message: ElementSpec.find_elements(): Can not find elements!  By_Key: <xpath>;  By_Value: <//div[contains(@id,'qbl-preview-list')]//div[1]//ul/li[contains(@id, 'qbl-preview-card-qb-question-')]>
+
+Verify Page Question Count Before Reordering
+   Verify Page Question Count Before Reordering between page 1 and 2.
+Verify Page Question Count After Reordering
+   Verify Page Question Count After Reordering between page 1 and 2.
+Verify Question Added Into Main Survey
+   Verify that preview question gets added into main survey or not by clicking on Add button present at preview window
+Verify Preview and Main survey questions
+   Verify Preview and Main survey Questions.
+PASSED
+Splunk Log File Location: D:\SM\gitrepos\QA\QATEST\createweb\results\Automation_Results_Create20160729_163638-d90bc265-7e89-42d2-a6f8-5ddd6bd7c0a2_20160729_163758526.txt
+splunk log file exists
+2016-07-29 16:38:04.299 INFO log_file - add_record_to_log: Date="07/29/16 16:38:04" User_Agent="Windows 7" Product=Create Test_Case="Verify Preview Question Reordering In Pages" Type=Regression Status=Passed Box_Host="ib-pune-pc-026" Full_Report_Link="D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_163638-ba1126e2-ac59-4c56-b143-50bf078c795d\History\test_bank_verifyPreviewQuestionReorderInPages20160729_163638-d863e5ba-1068-4fc1-9310-7084ee00adf3_1.html" Environment="MT2" User_name="test_e958c7bb-a45e-4394-b137-63fe6218e4fd" Duration="76s"
+Automation_Results_Create20160729_163638-d90bc265-7e89-42d2-a6f8-5ddd6bd7c0a2_20160729_163758526.txt-->Automation_Results_Create20160729_163638-d90bc265-7e89-42d2-a6f8-5ddd6bd7c0a2.txt
+
+
+------ generated xml file: D:\SM\gitrepos\QA\QATEST\createweb\junit.xml -------
+========================== 1 passed in 90.96 seconds ==========================
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>py.test -v -s --domain=MT2 automation\question_bank_library\test_bank_verifyPreviewQuestionReorderInPages.py
+============================= test session starts =============================
+platform win32 -- Python 2.7.11, pytest-2.8.5, py-1.4.31, pluggy-0.3.1 -- D:\SM\gitrepos\QA\QATEST\Scripts\python.exe
+cachedir: .cache
+rootdir: D:\SM\gitrepos\QA\QATEST\createweb, inifile: setup.cfg
+plugins: cov-1.8.1, xdist-1.14, smsdk.qa-0.0.34
+collected 1 items
+
+automation/question_bank_library/test_bank_verifyPreviewQuestionReorderInPages.py::test_bank_verify_preview_question_reorder_in_pages
+Report .html file location:
+D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_173617-d1171ec2-d76f-483b-8de6-0d87129142b8\History\test_bank_verifyPreviewQuestionReorderInPages20160729_173617-e1b7529f-3bff-4783-8996-36c016dd9a97_1.html
+D:\SM\gitrepos\QA\QATEST\lib\site-packages\requests\packages\urllib3\connectionpool.py:769: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly
+advised. See: https://urllib3.readthedocs.org/en/latest/security.html
+  InsecureRequestWarning)
+Verify new page is added or not
+   check to make sure that new page is added in Live preview
+Verify open AllCategories Category
+   Clicks on AllCategories and makes sure that it opens with AllCategories as hero button
+Exception message: Message: ElementSpec.find_elements(): Can not find elements!  By_Key: <xpath>;  By_Value: <//div[contains(@id,'qbl-preview-list')]//div[1]//ul/li[contains(@id, 'qbl-preview-card-qb-question-')]>
+
+Verify Page Question Count Before Reordering
+   Verify Page Question Count Before Reordering between page 1 and 2.
+Verify Page Question Count After Reordering
+   Verify Page Question Count After Reordering between page 1 and 2.
+Verify Question Added Into Main Survey
+   Verify that preview question gets added into main survey or not by clicking on Add button present at preview window
+Verify Preview and Main survey questions
+   Verify Preview and Main survey Questions.
+PASSED
+Splunk Log File Location: D:\SM\gitrepos\QA\QATEST\createweb\results\Automation_Results_Create20160729_173617-bc502083-7a75-4f18-90d8-8bc63ffaccf3_20160729_173754985.txt
+splunk log file exists
+2016-07-29 17:38:00.657 INFO log_file - add_record_to_log: Date="07/29/16 17:38:00" User_Agent="Windows 7" Product=Create Test_Case="Verify Preview Question Reordering In Pages" Type=Regression Status=Passed Box_Host="ib-pune-pc-026" Full_Report_Link="D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_173617-d1171ec2-d76f-483b-8de6-0d87129142b8\History\test_bank_verifyPreviewQuestionReorderInPages20160729_173617-e1b7529f-3bff-4783-8996-36c016dd9a97_1.html" Environment="MT2" User_name="test_e958c7bb-a45e-4394-b137-63fe6218e4fd" Duration="94s"
+Automation_Results_Create20160729_173617-bc502083-7a75-4f18-90d8-8bc63ffaccf3_20160729_173754985.txt-->Automation_Results_Create20160729_173617-bc502083-7a75-4f18-90d8-8bc63ffaccf3.txt
+
+
+------ generated xml file: D:\SM\gitrepos\QA\QATEST\createweb\junit.xml -------
+========================= 1 passed in 107.83 seconds ==========================
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>py.test -v -s --domain=MT2 automation\question_bank_library\test_bank_verifyPreviewQuestionReorderInPages.py
+============================= test session starts =============================
+platform win32 -- Python 2.7.11, pytest-2.8.5, py-1.4.31, pluggy-0.3.1 -- D:\SM\gitrepos\QA\QATEST\Scripts\python.exe
+cachedir: .cache
+rootdir: D:\SM\gitrepos\QA\QATEST\createweb, inifile: setup.cfg
+plugins: cov-1.8.1, xdist-1.14, smsdk.qa-0.0.34
+collected 1 items
+
+automation/question_bank_library/test_bank_verifyPreviewQuestionReorderInPages.py::test_bank_verify_preview_question_reorder_in_pages
+Report .html file location:
+D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_175005-f3a71fc1-5c5c-469d-8e52-060afc7ab1a9\History\test_bank_verifyPreviewQuestionReorderInPages20160729_175005-221cac26-82bd-4352-bb04-a09eac37cdbd_1.html
+D:\SM\gitrepos\QA\QATEST\lib\site-packages\requests\packages\urllib3\connectionpool.py:769: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly
+advised. See: https://urllib3.readthedocs.org/en/latest/security.html
+  InsecureRequestWarning)
+Verify new page is added or not
+   check to make sure that new page is added in Live preview
+Verify open AllCategories Category
+   Clicks on AllCategories and makes sure that it opens with AllCategories as hero button
+Exception message: Message: ElementSpec.find_elements(): Can not find elements!  By_Key: <xpath>;  By_Value: <//div[contains(@id,'qbl-preview-list')]//div[1]//ul/li[contains(@id, 'qbl-preview-card-qb-question-')]>
+
+Verify Page Question Count Before Reordering
+   Verify Page Question Count Before Reordering between page 1 and 2.
+FAILED
+Splunk Log File Location: D:\SM\gitrepos\QA\QATEST\createweb\results\Automation_Results_Create20160729_175005-195581da-a0f6-42ca-934a-02f0f3637bd6_20160729_175129819.txt
+splunk log file exists
+2016-07-29 17:51:35.716 INFO log_file - add_record_to_log: Date="07/29/16 17:51:35" User_Agent="Windows 7" Product=Create Test_Case="Verify Preview Question Reordering In Pages" Type=Regression Status=Failed Box_Host="ib-pune-pc-026" Full_Report_Link="D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_175005-f3a71fc1-5c5c-469d-8e52-060afc7ab1a9\History\test_bank_verifyPreviewQuestionReorderInPages20160729_175005-221cac26-82bd-4352-bb04-a09eac37cdbd_1.html" Environment="MT2" User_name="test_e958c7bb-a45e-4394-b137-63fe6218e4fd" Duration="81s"
+Automation_Results_Create20160729_175005-195581da-a0f6-42ca-934a-02f0f3637bd6_20160729_175129819.txt-->Automation_Results_Create20160729_175005-195581da-a0f6-42ca-934a-02f0f3637bd6.txt
+
+
+================================== FAILURES ===================================
+_____________ test_bank_verify_preview_question_reorder_in_pages ______________
+automation\question_bank_library\test_bank_verifyPreviewQuestionReorderInPages.py:164: in test_bank_verify_preview_question_reorder_in_pages
+    assert False, traceback.format_exc()
+E   AssertionError: Traceback (most recent call last):
+E       File "D:\SM\gitrepos\QA\QATEST\createweb\automation\question_bank_library\test_bank_verifyPreviewQuestionReorderInPages.py", line 101, in test_bank_verify_preview_question_reorder_in_pages
+E         mySurvey.myQBank.move_question_via_drag_and_drop(i, from_page, to_page)
+E       File "d:\sm\gitrepos\qa\qatest\smsdk.qafw\smsdk\qafw\create\question_bank_library.py", line 954, in move_question_via_drag_and_drop
+E         print "offset = " + offset
+E     TypeError: cannot concatenate 'str' and 'Counter' objects
+E
+E   assert False
+------ generated xml file: D:\SM\gitrepos\QA\QATEST\createweb\junit.xml -------
+=========================== short test summary info ===========================
+FAIL automation/question_bank_library/test_bank_verifyPreviewQuestionReorderInPages.py::test_bank_verify_preview_question_reorder_in_pages
+========================== 1 failed in 94.92 seconds ==========================
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>py.test -v -s --domain=MT2 automation\question_bank_library\test_bank_verifyPreviewQuestionReorderInPages.py
+============================= test session starts =============================
+platform win32 -- Python 2.7.11, pytest-2.8.5, py-1.4.31, pluggy-0.3.1 -- D:\SM\gitrepos\QA\QATEST\Scripts\python.exe
+cachedir: .cache
+rootdir: D:\SM\gitrepos\QA\QATEST\createweb, inifile: setup.cfg
+plugins: cov-1.8.1, xdist-1.14, smsdk.qa-0.0.34
+collected 1 items
+
+automation/question_bank_library/test_bank_verifyPreviewQuestionReorderInPages.py::test_bank_verify_preview_question_reorder_in_pages
+Report .html file location:
+D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_175221-ca8b2bb1-d8a2-4475-b1df-cb65c5333c1f\History\test_bank_verifyPreviewQuestionReorderInPages20160729_175221-038f6b04-aee6-449b-a449-f9f1aa839b4a_1.html
+D:\SM\gitrepos\QA\QATEST\lib\site-packages\requests\packages\urllib3\connectionpool.py:769: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly
+advised. See: https://urllib3.readthedocs.org/en/latest/security.html
+  InsecureRequestWarning)
+Verify new page is added or not
+   check to make sure that new page is added in Live preview
+Verify open AllCategories Category
+   Clicks on AllCategories and makes sure that it opens with AllCategories as hero button
+Exception message: Message: ElementSpec.find_elements(): Can not find elements!  By_Key: <xpath>;  By_Value: <//div[contains(@id,'qbl-preview-list')]//div[1]//ul/li[contains(@id, 'qbl-preview-card-qb-question-')]>
+
+Verify Page Question Count Before Reordering
+   Verify Page Question Count Before Reordering between page 1 and 2.
+Counter({'y': -54.0})
+Counter({'y': -158.0})
+Verify Page Question Count After Reordering
+   Verify Page Question Count After Reordering between page 1 and 2.
+Verify Question Added Into Main Survey
+   Verify that preview question gets added into main survey or not by clicking on Add button present at preview window
+Verify Preview and Main survey questions
+   Verify Preview and Main survey Questions.
+PASSED
+Splunk Log File Location: D:\SM\gitrepos\QA\QATEST\createweb\results\Automation_Results_Create20160729_175221-a9e95e2e-ad28-44ae-8a8d-99fc8577023d_20160729_175343546.txt
+splunk log file exists
+2016-07-29 17:53:48.933 INFO log_file - add_record_to_log: Date="07/29/16 17:53:48" User_Agent="Windows 7" Product=Create Test_Case="Verify Preview Question Reordering In Pages" Type=Regression Status=Passed Box_Host="ib-pune-pc-026" Full_Report_Link="D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_175221-ca8b2bb1-d8a2-4475-b1df-cb65c5333c1f\History\test_bank_verifyPreviewQuestionReorderInPages20160729_175221-038f6b04-aee6-449b-a449-f9f1aa839b4a_1.html" Environment="MT2" User_name="test_e958c7bb-a45e-4394-b137-63fe6218e4fd" Duration="78s"
+Automation_Results_Create20160729_175221-a9e95e2e-ad28-44ae-8a8d-99fc8577023d_20160729_175343546.txt-->Automation_Results_Create20160729_175221-a9e95e2e-ad28-44ae-8a8d-99fc8577023d.txt
+
+
+------ generated xml file: D:\SM\gitrepos\QA\QATEST\createweb\junit.xml -------
+========================== 1 passed in 91.55 seconds ==========================
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>py.test -v -s --domain=MT2 automation\question_bank_library\test_bank_customizeModifierOnQuestionCard.py
+============================= test session starts =============================
+platform win32 -- Python 2.7.11, pytest-2.8.5, py-1.4.31, pluggy-0.3.1 -- D:\SM\gitrepos\QA\QATEST\Scripts\python.exe
+cachedir: .cache
+rootdir: D:\SM\gitrepos\QA\QATEST\createweb, inifile: setup.cfg
+plugins: cov-1.8.1, xdist-1.14, smsdk.qa-0.0.34
+collected 1 items
+
+automation/question_bank_library/test_bank_customizeModifierOnQuestionCard.py::test_bank_customizeModifierOnQuestionCard
+Report .html file location:
+D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_185530-fc0fe9d4-986a-4c55-a5d2-bf31857f2910\History\test_bank_customizeModifierOnQuestionCard20160729_185530-650f3575-a915-4acc-ae2f-6aba92a59b9a_1.html
+D:\SM\gitrepos\QA\QATEST\lib\site-packages\requests\packages\urllib3\connectionpool.py:769: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly
+advised. See: https://urllib3.readthedocs.org/en/latest/security.html
+  InsecureRequestWarning)
+Verify new page is added or not
+   check to make sure that new page is added in Live preview
+Verify open HumanResources Category
+   Clicks on HumanResources and makes sure that it opens with HumanResources as hero button
+Verify text entry
+   check to make sure that entered question to get an autocomplete list
+Verify question save with modifier
+   check to mke sure that question save with modifier
+Verify Question in Preview Box
+   Verify Added Question is added into preview box or not.
+Counter({'y': -54.0})
+PASSED
+Splunk Log File Location: D:\SM\gitrepos\QA\QATEST\createweb\results\Automation_Results_Create20160729_185530-3467c3f2-98a4-4bce-a399-a2de2f570992_20160729_185701844.txt
+splunk log file exists
+2016-07-29 18:57:07.526 INFO log_file - add_record_to_log: Date="07/29/16 18:57:07" User_Agent="Windows 7" Product=Create Test_Case="Verify Customize Modifier on Question Card" Type=Regression Status=Passed Box_Host="ib-pune-pc-026" Full_Report_Link="D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_185530-fc0fe9d4-986a-4c55-a5d2-bf31857f2910\History\test_bank_customizeModifierOnQuestionCard20160729_185530-650f3575-a915-4acc-ae2f-6aba92a59b9a_1.html" Environment="MT2" User_name="test_e958c7bb-a45e-4394-b137-63fe6218e4fd" Duration="72s"
+Automation_Results_Create20160729_185530-3467c3f2-98a4-4bce-a399-a2de2f570992_20160729_185701844.txt-->Automation_Results_Create20160729_185530-3467c3f2-98a4-4bce-a399-a2de2f570992.txt
+
+
+------ generated xml file: D:\SM\gitrepos\QA\QATEST\createweb\junit.xml -------
+========================= 1 passed in 101.46 seconds ==========================
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>py.test -v -s --domain=MT2 automation\question_bank_library\test_bank_customizeModifierOnQuestionCard.py
+============================= test session starts =============================
+platform win32 -- Python 2.7.11, pytest-2.8.5, py-1.4.31, pluggy-0.3.1 -- D:\SM\gitrepos\QA\QATEST\Scripts\python.exe
+cachedir: .cache
+rootdir: D:\SM\gitrepos\QA\QATEST\createweb, inifile: setup.cfg
+plugins: cov-1.8.1, xdist-1.14, smsdk.qa-0.0.34
+collected 1 items
+
+automation/question_bank_library/test_bank_customizeModifierOnQuestionCard.py::test_bank_customizeModifierOnQuestionCard
+Report .html file location:
+D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_190105-950e5d33-949b-4594-94bf-6f7d5fd8cfda\History\test_bank_customizeModifierOnQuestionCard20160729_190105-6d322b50-3649-4343-9753-61c994de2322_1.html
+D:\SM\gitrepos\QA\QATEST\lib\site-packages\requests\packages\urllib3\connectionpool.py:769: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly
+advised. See: https://urllib3.readthedocs.org/en/latest/security.html
+  InsecureRequestWarning)
+Verify new page is added or not
+   check to make sure that new page is added in Live preview
+Verify open HumanResources Category
+   Clicks on HumanResources and makes sure that it opens with HumanResources as hero button
+Verify text entry
+   check to make sure that entered question to get an autocomplete list
+Verify question save with modifier
+   check to mke sure that question save with modifier
+Verify Question in Preview Box
+   Verify Added Question is added into preview box or not.
+Counter({'y': -54.0})
+PASSED
+Splunk Log File Location: D:\SM\gitrepos\QA\QATEST\createweb\results\Automation_Results_Create20160729_190105-5bcdb162-5d99-48d8-b4e2-c147048c0fc4_20160729_190236152.txt
+splunk log file exists
+2016-07-29 19:02:41.109 INFO log_file - add_record_to_log: Date="07/29/16 19:02:41" User_Agent="Windows 7" Product=Create Test_Case="Verify Customize Modifier on Question Card" Type=Regression Status=Passed Box_Host="ib-pune-pc-026" Full_Report_Link="D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_190105-950e5d33-949b-4594-94bf-6f7d5fd8cfda\History\test_bank_customizeModifierOnQuestionCard20160729_190105-6d322b50-3649-4343-9753-61c994de2322_1.html" Environment="MT2" User_name="test_e958c7bb-a45e-4394-b137-63fe6218e4fd" Duration="71s"
+Automation_Results_Create20160729_190105-5bcdb162-5d99-48d8-b4e2-c147048c0fc4_20160729_190236152.txt-->Automation_Results_Create20160729_190105-5bcdb162-5d99-48d8-b4e2-c147048c0fc4.txt
+
+
+------ generated xml file: D:\SM\gitrepos\QA\QATEST\createweb\junit.xml -------
+========================== 1 passed in 99.92 seconds ==========================
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>py.test -v -s --domain=MT2 automation\question_bank_library\test_bank_customizeModifierOnQuestionCard.py
+============================= test session starts =============================
+platform win32 -- Python 2.7.11, pytest-2.8.5, py-1.4.31, pluggy-0.3.1 -- D:\SM\gitrepos\QA\QATEST\Scripts\python.exe
+cachedir: .cache
+rootdir: D:\SM\gitrepos\QA\QATEST\createweb, inifile: setup.cfg
+plugins: cov-1.8.1, xdist-1.14, smsdk.qa-0.0.34
+collected 1 items
+
+automation/question_bank_library/test_bank_customizeModifierOnQuestionCard.py::test_bank_customizeModifierOnQuestionCard
+Report .html file location:
+D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_190344-313b3b2e-b74d-4767-bec0-a693d9a32a71\History\test_bank_customizeModifierOnQuestionCard20160729_190344-44e9bdce-b818-48d9-bf48-25bb63e7e1a8_1.html
+D:\SM\gitrepos\QA\QATEST\lib\site-packages\requests\packages\urllib3\connectionpool.py:769: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly
+advised. See: https://urllib3.readthedocs.org/en/latest/security.html
+  InsecureRequestWarning)
+Verify new page is added or not
+   check to make sure that new page is added in Live preview
+Verify open HumanResources Category
+   Clicks on HumanResources and makes sure that it opens with HumanResources as hero button
+Verify text entry
+   check to make sure that entered question to get an autocomplete list
+Verify question save with modifier
+   check to mke sure that question save with modifier
+Verify Question in Preview Box
+   Verify Added Question is added into preview box or not.
+Counter({'y': -49.0})
+PASSED
+Splunk Log File Location: D:\SM\gitrepos\QA\QATEST\createweb\results\Automation_Results_Create20160729_190344-ce66671f-4cb0-4064-8b3e-741bb45b6721_20160729_190513855.txt
+splunk log file exists
+2016-07-29 19:05:18.816 INFO log_file - add_record_to_log: Date="07/29/16 19:05:18" User_Agent="Windows 7" Product=Create Test_Case="Verify Customize Modifier on Question Card" Type=Regression Status=Passed Box_Host="ib-pune-pc-026" Full_Report_Link="D:\SM\gitrepos\QA\QATEST\createweb\test_results\20160729_190344-313b3b2e-b74d-4767-bec0-a693d9a32a71\History\test_bank_customizeModifierOnQuestionCard20160729_190344-44e9bdce-b818-48d9-bf48-25bb63e7e1a8_1.html" Environment="MT2" User_name="test_e958c7bb-a45e-4394-b137-63fe6218e4fd" Duration="70s"
+Automation_Results_Create20160729_190344-ce66671f-4cb0-4064-8b3e-741bb45b6721_20160729_190513855.txt-->Automation_Results_Create20160729_190344-ce66671f-4cb0-4064-8b3e-741bb45b6721.txt
+
+
+------ generated xml file: D:\SM\gitrepos\QA\QATEST\createweb\junit.xml -------
+========================== 1 passed in 98.87 seconds ==========================
+
+(QATEST) D:\SM\gitrepos\QA\QATEST\createweb>
+
